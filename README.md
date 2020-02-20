@@ -149,7 +149,7 @@
 <h3><span id="HTML_draft_version_timeline" class="mw-headline">HTML draft version timeline</span></h3>
 <dl>
 <dt><strong>October 1991</strong></dt>
-<dd><em>HTML Tags</em>,&nbsp;an informal CERN document listing 18 HTML tags, was first mentioned in public.</dd>
+<dd>HTML Tags,&nbsp;an informal CERN document listing 18 HTML tags, was first mentioned in public.</dd>
 <dt><strong>June 1992</strong></dt>
 <dd>First informal draft of the HTML DTD,&nbsp;with seven&nbsp;subsequent revisions (July 15, August 6, August 18, November 17, November 19, November 20, November 22)</dd>
 <dt><strong>November 1992</strong></dt>
@@ -189,6 +189,3 @@
 <p>&nbsp;</p>
 <h3><span id="Transition_of_HTML_Publication_to_WHATWG" class="mw-headline">Transition of HTML Publication to WHATWG</span></h3>
 <p>On 28 May 2019, the W3C announced that WHATWG would be the sole publisher of the HTML and DOM standards.&nbsp;The W3C and WHATWG had been publishing competing standards since 2012. While the W3C standard was identical to the WHATWG in 2007 the standards have since progressively diverged due to different design decisions.&nbsp;The WHATWG "Living Standard" had been the de facto web standard for some time.</p>
-
-
-
