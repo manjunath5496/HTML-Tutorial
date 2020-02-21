@@ -468,6 +468,7 @@
 <li class="toclevel-2 tocsection-31"><a href="#HTML Attributes"><span class="toctext">HTML Attributes</span></a></li>
 <li class="toclevel-2 tocsection-32"><a href="#HTML Horizontal Rules"><span class="toctext">HTML Horizontal Rules</span></a></li>
 <li class="toclevel-2 tocsection-33"><a href="#HTML pre Element"><span class="toctext"> HTML &lt;pre&gt; Element</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="#HTML Styles"><span class="toctext"> HTML Styles</span></a></li>
 <ul>
 
 
@@ -803,8 +804,26 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2 id ="HTML Styles">HTML&nbsp;<span class="color_h1">Styles</span></h2>
+<h2>Background Color</h2>
+<p>The CSS&nbsp;<code class="w3-codespan">background-color</code>&nbsp;property defines the background color for an HTML element.</p>
+<p>This example sets the background color for a page to powderblue:</p>
 
-
-
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body style="background-color:powderblue;">
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/13.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
