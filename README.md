@@ -546,7 +546,7 @@ Try it Yourself &raquo; </a></div>
 <!DOCTYPE html>
 <html>
 <body>
-<a href="https://www.google.com">This is a link</a>
+<a href="https://www.google.com" target="_blank">This is a link</a>
 </body>
 </html>
 ```
