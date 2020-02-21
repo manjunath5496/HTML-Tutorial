@@ -60,6 +60,9 @@
 </li>
 <li class="toclevel-1 tocsection-29"><a href="#WHATWG_HTML_versus_HTML5"><span class="toctext">WHATWG HTML versus HTML5</span></a></li>
 <li class="toclevel-1 tocsection-30"><a href="#Hypertext_features_not_in_HTML"><span class="toctext">Hypertext features not in HTML</span></a></li>
+<ul>
+<li><a href="#WYSIWYG_editors"><span class="toctext">WYSIWYG editors</span></a></li>
+</ul>  
 </ul>
 </br>
 
@@ -431,7 +434,16 @@
 <p>Sometimes&nbsp;<a title="Web developer" href="https://en.wikipedia.org/wiki/Web_developer">web developers</a>&nbsp;or browser manufacturers remedy these shortcomings. For instance,&nbsp;<a title="Wiki" href="https://en.wikipedia.org/wiki/Wiki">wikis</a>&nbsp;and&nbsp;<a title="Content management system" href="https://en.wikipedia.org/wiki/Content_management_system">content management systems</a>&nbsp;allow surfers to edit the Web pages they visit.</p>
 
 
-
+<h2><span id="WYSIWYG_editors" class="mw-headline">WYSIWYG editors</span></h2>
+<p>There are some&nbsp;<a title="WYSIWYG" href="https://en.wikipedia.org/wiki/WYSIWYG">WYSIWYG</a>&nbsp;editors (What You See Is What You Get), in which the user lays out everything as it is to appear in the HTML document using a&nbsp;<a title="Graphical user interface" href="https://en.wikipedia.org/wiki/Graphical_user_interface">graphical user interface</a>&nbsp;(GUI), often similar to&nbsp;<a title="Word processor" href="https://en.wikipedia.org/wiki/Word_processor">word processors</a>. The editor renders the document rather than show the code, so authors do not require extensive knowledge of HTML.</p>
+<p>The WYSIWYG editing model has been criticized,&nbsp;primarily because of the low quality of the generated code; there are voices advocating a change to the&nbsp;<a title="WYSIWYM" href="https://en.wikipedia.org/wiki/WYSIWYM">WYSIWYM</a>&nbsp;model (What You See Is What You Mean).</p>
+<p>WYSIWYG editors remain a controversial topic because of their perceived flaws such as:</p>
+<ul>
+<li>Relying mainly on layout as opposed to meaning, often using markup that does not convey the intended meaning but simply copies the layout.</li>
+<li>Often producing extremely verbose and redundant code that fails to make use of the cascading nature of HTML and&nbsp;<a class="mw-redirect" title="CSS" href="https://en.wikipedia.org/wiki/CSS">CSS</a>.</li>
+<li>Often producing ungrammatical markup, called&nbsp;<a title="Tag soup" href="https://en.wikipedia.org/wiki/Tag_soup">tag soup</a>&nbsp;or semantically incorrect markup (such as&nbsp;<code id="" class="mw-highlight" dir="ltr"><span class="p">&lt;</span><span class="nt">em</span><span class="p">&gt;</span></code>&nbsp;for italics).</li>
+<li>As a great deal of the information in HTML documents is not in the layout, the model has been criticized for its "what you see is all you get"-nature.</li>
+</ul>
 
 
 
