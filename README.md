@@ -962,9 +962,23 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
+<p>The HTML&nbsp;<code class="w3-codespan">&lt;em&gt;</code>&nbsp;element defines&nbsp;<em>emphasized</em>&nbsp;text, with added semantic importance.</p>
 
-
-
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<p><em>This text is emphasized</em></p>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/21.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
