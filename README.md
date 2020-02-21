@@ -450,7 +450,23 @@
 </br>
 
 <h2 id="HTML Tutorial">HTML Tutorial</h2>
-<h2>HTML Documents</h2>
+
+
+<div class="toctitle" dir="ltr" lang="en">
+<h2 id="mw-toc-heading">Contents</h2>
+<label class="toctogglelabel" for="toctogglecheckbox"></label></div>
+<ul>
+
+<li class="toclevel-2 tocsection-2"><a href="#HTML Documents"><span class="toctext">HTML Documents</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#HTML_versions_timeline"><span class="toctext">HTML versions timeline</span></a></li>
+<ul>
+
+
+
+</br>
+
+
+<h2 id ="HTML Documents">HTML Documents</h2>
 <p>All HTML documents must start with a document type declaration:&nbsp;<code class="w3-codespan">&lt;!DOCTYPE html&gt;</code>.</p>
 <p>The HTML document itself begins with&nbsp;<code class="w3-codespan">&lt;html&gt;</code>&nbsp;and ends with&nbsp;<code class="w3-codespan">&lt;/html&gt;</code>.</p>
 <p>The visible part of the HTML document is between&nbsp;<code class="w3-codespan">&lt;body&gt;</code>&nbsp;and&nbsp;<code class="w3-codespan">&lt;/body&gt;</code>.</p>
