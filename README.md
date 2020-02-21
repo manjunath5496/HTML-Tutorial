@@ -467,6 +467,7 @@
 <li class="toclevel-2 tocsection-30"><a href="#Empty HTML Elements"><span class="toctext">Empty HTML Elements</span></a></li>
 <li class="toclevel-2 tocsection-31"><a href="#HTML Attributes"><span class="toctext">HTML Attributes</span></a></li>
 <li class="toclevel-2 tocsection-32"><a href="#HTML Horizontal Rules"><span class="toctext">HTML Horizontal Rules</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="#HTML pre Element"><span class="toctext"> HTML &lt;pre&gt; Element</span></a></li>
 <ul>
 
 
@@ -776,6 +777,34 @@ Try it Yourself &raquo; </a></div>
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/11.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
+
+<h2 id="HTML pre Element">The HTML &lt;pre&gt; Element</h2>
+<p>The HTML&nbsp;<code class="w3-codespan">&lt;pre&gt;</code>&nbsp;element defines preformatted text.</p>
+<p>The text inside a&nbsp;<code class="w3-codespan">&lt;pre&gt;</code>&nbsp;element is displayed in a fixed-width font (usually Courier), and it preserves both spaces and line breaks:</p>
+
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<pre>
+  Albert Einstein was a German-born theoretical
+
+  physicist who developed the theory of relativity.
+
+</pre>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/12.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
+
 
 
 
