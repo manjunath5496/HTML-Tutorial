@@ -980,7 +980,66 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2>HTML &lt;small&gt; Element</h2>
+<p>The HTML&nbsp;<code class="w3-codespan">&lt;small&gt;</code>&nbsp;element defines smaller text:</p>
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<h2>HTML <small>Small</small> Formatting</h2>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/22.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
+<h2>HTML &lt;mark&gt; Element</h2>
+<p>The HTML&nbsp;<code class="w3-codespan">&lt;mark&gt;</code>&nbsp;element defines marked/highlighted text:</p>
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<h2>HTML <mark>Marked</mark> Formatting</h2>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/23.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+<h2>HTML &lt;del&gt; Element</h2>
+<p>The HTML&nbsp;<code class="w3-codespan">&lt;del&gt;</code>&nbsp;element defines deleted/removed text.</p>
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<p>My favorite color is <del>blue</del> red.</p>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/24.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+<h2>HTML &lt;ins&gt; Element</h2>
+<p>The HTML&nbsp;<code class="w3-codespan">&lt;ins&gt;</code>&nbsp;element defines inserted/added text.</p>
+<p>&nbsp;</p>
+<h2>HTML &lt;sub&gt; Element</h2>
+<p>The HTML&nbsp;<code class="w3-codespan">&lt;sub&gt;</code>&nbsp;element defines subscripted text.</p>
+<p>&nbsp;</p>
+<h2>HTML &lt;sup&gt; Element</h2>
+<p>The HTML&nbsp;<code class="w3-codespan">&lt;sup&gt;</code>&nbsp;element defines superscripted text.</p>
 
 
 
