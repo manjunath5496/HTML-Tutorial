@@ -466,6 +466,7 @@
 <li class="toclevel-2 tocsection-29"><a href="#HTML Lists"><span class="toctext">HTML Lists</span></a></li>
 <li class="toclevel-2 tocsection-30"><a href="#Empty HTML Elements"><span class="toctext">Empty HTML Elements</span></a></li>
 <li class="toclevel-2 tocsection-31"><a href="#HTML Attributes"><span class="toctext">HTML Attributes</span></a></li>
+<li class="toclevel-2 tocsection-32"><a href="#HTML Horizontal Rules"><span class="toctext">HTML Horizontal Rules</span></a></li>
 <ul>
 
 
@@ -754,6 +755,27 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2>HTML Horizontal Rules</h2>
+<p>The&nbsp;<code class="w3-codespan">&lt;hr&gt;</code>&nbsp;tag defines a thematic break in an HTML page, and is most often displayed as a horizontal rule.</p>
+<p>The&nbsp;<code class="w3-codespan">&lt;hr&gt;</code>&nbsp;element is used to separate content (or define a change) in an HTML page:</p>
+
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<p>This is some text.</p>
+<hr>
+<h2>This is heading 2</h2>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/11.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
