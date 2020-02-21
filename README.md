@@ -755,7 +755,7 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
-<h2>HTML Horizontal Rules</h2>
+<h2 id="HTML Horizontal Rules">HTML Horizontal Rules</h2>
 <p>The&nbsp;<code class="w3-codespan">&lt;hr&gt;</code>&nbsp;tag defines a thematic break in an HTML page, and is most often displayed as a horizontal rule.</p>
 <p>The&nbsp;<code class="w3-codespan">&lt;hr&gt;</code>&nbsp;element is used to separate content (or define a change) in an HTML page:</p>
 
