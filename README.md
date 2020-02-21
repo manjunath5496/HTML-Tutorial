@@ -463,6 +463,7 @@
 <li class="toclevel-2 tocsection-26"><a href="#HTML Links"><span class="toctext">HTML Links</span></a></li>
 <li class="toclevel-2 tocsection-27"><a href="#HTML Images"><span class="toctext">HTML Images</span></a></li>
 <li class="toclevel-2 tocsection-28"><a href="#HTML Buttons"><span class="toctext">HTML Buttons</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#HTML Lists"><span class="toctext">HTML Lists</span></a></li>
 <ul>
 
 
@@ -595,8 +596,34 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2 id="HTML Lists">HTML Lists</h2>
+<p>HTML lists are defined with the&nbsp;<code class="w3-codespan">&lt;ul&gt;</code>&nbsp;(unordered/bullet list) or the&nbsp;<code class="w3-codespan">&lt;ol&gt;</code>&nbsp;(ordered/numbered list) tag, followed by&nbsp;<code class="w3-codespan">&lt;li&gt;</code>&nbsp;tags (list items):</p>
 
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
 
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/7.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
