@@ -746,7 +746,7 @@ Try it Yourself &raquo; </a></div>
 <!DOCTYPE html>
 <html>
 <body>
-<p title="I'm a tooltip"> This is a paragraph. </p>
+<p title="I am a tooltip"> This is a paragraph. </p>
 </body>
 </html>
 ```
