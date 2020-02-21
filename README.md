@@ -470,6 +470,6 @@
 </html>
 ```
 
-<a class="w3-btn w3-margin-bottom" href="https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic_document" target="_blank">
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/1.html" target="_blank">
 <button type="button">Try it Yourself &raquo;</button> </a></div>
 
