@@ -61,8 +61,10 @@
 <li class="toclevel-1 tocsection-29"><a href="#WHATWG_HTML_versus_HTML5"><span class="toctext">WHATWG HTML versus HTML5</span></a></li>
 <li class="toclevel-1 tocsection-30"><a href="#Hypertext_features_not_in_HTML"><span class="toctext">Hypertext features not in HTML</span></a></li>
 <ul>
-<li><a href="#WYSIWYG_editors"><span class="toctext">WYSIWYG editors</span></a></li>
+
 </ul>  
+
+<li><a href="#WYSIWYG_editors"><span class="toctext">WYSIWYG editors</span></a></li>
 </ul>
 </br>
 
