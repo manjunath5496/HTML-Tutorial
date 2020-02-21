@@ -826,4 +826,27 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2>Text Color</h2>
+<p>The CSS&nbsp;<code class="w3-codespan">color</code>&nbsp;property defines the text color for an HTML element:</p>
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="color:blue;">This is a heading</h1>
+<p style="color:red;">This is a paragraph.</p>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/14.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
+
+
+
 
