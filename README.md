@@ -457,8 +457,8 @@
 <label class="toctogglelabel" for="toctogglecheckbox"></label></div>
 <ul>
 
-<li class="toclevel-2 tocsection-2"><a href="#HTML Documents"><span class="toctext">HTML Documents</span></a></li>
-<li class="toclevel-2 tocsection-3"><a href="#HTML_versions_timeline"><span class="toctext">HTML versions timeline</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#HTML Documents"><span class="toctext">HTML Documents</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#HTML Headings"><span class="toctext">HTML Headings</span></a></li>
 <ul>
 
 
@@ -488,4 +488,34 @@
 
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/1.html" target="_blank">
 Try it Yourself &raquo; </a></div>
+</br>
+<h2 id="HTML Headings">HTML Headings</h2>
+<p>HTML headings are defined with the&nbsp;<code class="w3-codespan">&lt;h1&gt;</code>&nbsp;to&nbsp;<code class="w3-codespan">&lt;h6&gt;</code>&nbsp;tags.</p>
+<p><code class="w3-codespan">&lt;h1&gt;</code>&nbsp;defines the most important heading.&nbsp;<code class="w3-codespan">&lt;h6&gt;</code>&nbsp;defines the least important heading:&nbsp;</p>
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<h3>This is heading 3</h3>
+
+</body>
+</html>
+```
+
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/2.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
+
+
+
+
 
