@@ -462,6 +462,7 @@
 <li class="toclevel-2 tocsection-25"><a href="#HTML Paragraphs"><span class="toctext">HTML Paragraphs</span></a></li>
 <li class="toclevel-2 tocsection-26"><a href="#HTML Links"><span class="toctext">HTML Links</span></a></li>
 <li class="toclevel-2 tocsection-27"><a href="#HTML Images"><span class="toctext">HTML Images</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#HTML Buttons"><span class="toctext">HTML Buttons</span></a></li>
 <ul>
 
 
@@ -574,4 +575,31 @@ Try it Yourself &raquo; </a></div>
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/5.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
+
+<h2 id="HTML Buttons">HTML Buttons</h2>
+<p>HTML buttons are defined with the&nbsp;<code class="w3-codespan">&lt;button&gt;</code>&nbsp;tag:</p>
+
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<button>Click me</button>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/6.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
+
+
+
+
+
+
 
