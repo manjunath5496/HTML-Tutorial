@@ -470,6 +470,7 @@
 <li class="toclevel-2 tocsection-33"><a href="#HTML pre Element"><span class="toctext"> HTML &lt;pre&gt; Element</span></a></li>
 <li class="toclevel-2 tocsection-34"><a href="#HTML Styles"><span class="toctext"> HTML Styles</span></a></li>
 <li class="toclevel-2 tocsection-35"><a href="#HTML Text Formatting"><span class="toctext"> HTML Text Formatting</span></a></li>
+<li class="toclevel-2 tocsection-36"><a href="#Quotation"><span class="toctext"> HTML Quotation and Citation Elements</span></a></li>
 <ul>
 
 
@@ -1085,7 +1086,7 @@ Try it Yourself &raquo; </a></div>
 </br>
 
 
-<h2>HTML Quotation and Citation Elements</h2>
+<h2 id="Quotation">HTML Quotation and Citation Elements</h2>
 <table class="w3-table-all notranslate">
 <tbody>
 <tr>
