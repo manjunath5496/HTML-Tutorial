@@ -908,7 +908,21 @@ Try it Yourself &raquo; </a></div>
 <h2>HTML &lt;b&gt; and &lt;strong&gt; Elements</h2>
 <p>The HTML&nbsp;<code class="w3-codespan">&lt;b&gt;</code>&nbsp;element defines&nbsp;<strong>bold</strong>&nbsp;text, without any extra importance.</p>
 
-
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<b>This text is bold</b>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/18.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
