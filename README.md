@@ -718,3 +718,21 @@ Try it Yourself &raquo; </a></div>
 ```
 </div>
 </br>
+<h2>The style Attribute</h2>
+<p>The&nbsp;<code class="w3-codespan">style</code>&nbsp;attribute is used to specify the styling of an element, like color, font, size etc.</p>
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<p style="color:red">This is a red paragraph.</p>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/9.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
