@@ -1094,11 +1094,11 @@ Try it Yourself &raquo; </a></div>
 <th>Description</th>
 </tr>
 <tr>
-<td><a href="https://www.w3schools.com/tags/tag_abbr.asp">&lt;abbr&gt;</a></td>
+<td><a href="https://manjunath5496.github.io/html/30.html">&lt;abbr&gt;</a></td>
 <td>Defines an abbreviation or acronym</td>
 </tr>
 <tr>
-<td><a href="https://www.w3schools.com/tags/tag_address.asp">&lt;address&gt;</a></td>
+<td><a href="https://manjunath5496.github.io/html/31.html">&lt;address&gt;</a></td>
 <td>Defines contact information for the author/owner of a document</td>
 </tr>
 <tr>
