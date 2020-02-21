@@ -461,6 +461,7 @@
 <li class="toclevel-2 tocsection-24"><a href="#HTML Headings"><span class="toctext">HTML Headings</span></a></li>
 <li class="toclevel-2 tocsection-25"><a href="#HTML Paragraphs"><span class="toctext">HTML Paragraphs</span></a></li>
 <li class="toclevel-2 tocsection-26"><a href="#HTML Links"><span class="toctext">HTML Links</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#HTML Images"><span class="toctext">HTML Images</span></a></li>
 <ul>
 
 
@@ -554,6 +555,23 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2 id ="HTML Images">HTML Images</h2>
+<p>HTML images are defined with the&nbsp;<code class="w3-codespan">&lt;img&gt;</code>&nbsp;tag.</p>
+<p>The source file (<code class="w3-codespan">src</code>), alternative text (<code class="w3-codespan">alt</code>),&nbsp;<code class="w3-codespan">width</code>, and&nbsp;<code class="w3-codespan">height</code>&nbsp;are provided as attributes:</p>
 
-
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<img src="Alan-Turing.jpg" alt="Alan Turing" width="100" height="100">
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/5.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
