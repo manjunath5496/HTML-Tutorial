@@ -916,7 +916,7 @@ Try it Yourself &raquo; </a></div>
 <!DOCTYPE html>
 <html>
 <body>
-<b>This text is bold</b>
+<p><b>This text is bold</b></p>
 </body>
 </html>
 ```
