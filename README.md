@@ -736,3 +736,24 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2>The title Attribute</h2>
+<p>Here, a&nbsp;<code class="w3-codespan">title</code>&nbsp;attribute is added to the&nbsp;<code class="w3-codespan">&lt;p&gt;</code>&nbsp;element. The value of the title attribute will be displayed as a tooltip when you mouse over the paragraph:</p>
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<p title="I'm a tooltip"> This is a paragraph. </p>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/10.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
+
+
