@@ -865,4 +865,41 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2>Text Size</h2>
+<p>The CSS&nbsp;<code class="w3-codespan">font-size</code>&nbsp;property defines the text size for an HTML element:</p>
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="font-size:300%;">This is a heading</h1>
+<p style="font-size:160%;">This is a paragraph.</p>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/16.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+<h2>Text Alignment</h2>
+<p>The CSS&nbsp;<code class="w3-codespan">text-align</code>&nbsp;property defines the horizontal text alignment for an HTML element:</p>
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="text-align:center;">Centered Heading</h1>
+<p style="text-align:center;">Centered paragraph.</p>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/17.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
