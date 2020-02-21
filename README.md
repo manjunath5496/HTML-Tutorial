@@ -465,6 +465,7 @@
 <li class="toclevel-2 tocsection-28"><a href="#HTML Buttons"><span class="toctext">HTML Buttons</span></a></li>
 <li class="toclevel-2 tocsection-29"><a href="#HTML Lists"><span class="toctext">HTML Lists</span></a></li>
 <li class="toclevel-2 tocsection-30"><a href="#Empty HTML Elements"><span class="toctext">Empty HTML Elements</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#HTML Attributes"><span class="toctext">HTML Attributes</span></a></li>
 <ul>
 
 
@@ -646,4 +647,74 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2 id ="HTML Attributes">HTML Attributes</h2>
+<p>&nbsp;</p>
+<h2>The href Attribute</h2>
+<p>HTML links are defined with the&nbsp;<code class="w3-codespan">&lt;a&gt;</code>&nbsp;tag. The link address is specified in the&nbsp;<code class="w3-codespan">href</code>&nbsp;attribute:</p>
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<a href="https://www.google.com">This is a link</a>
+</body>
+</html>
+```
+</div>
+</br>
+<h2>The src Attribute</h2>
+<p>HTML images are defined with the&nbsp;<code class="w3-codespan">&lt;img&gt;</code>&nbsp;tag.</p>
+<p>The filename of the image source is specified in the&nbsp;<code class="w3-codespan">src</code>&nbsp;attribute:</p>
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<img src="Alan-Turing.jpg.jpg">
+</body>
+</html>
+```
+</div>
+</br>
 
+<h2>The width and height Attributes</h2>
+<p>&nbsp;HTML images also have&nbsp;<code class="w3-codespan">width</code>&nbsp;and&nbsp;<code class="w3-codespan">height</code>&nbsp;attributes, which specifies the width and height of the image:</p>
+
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<img src="Alan-Turing.jpg.jpg" width="100" height="100">
+</body>
+</html>
+```
+</div>
+</br>
+<h2>The alt Attribute</h2>
+<p>The&nbsp;<code class="w3-codespan">alt</code>&nbsp;attribute specifies an alternative text to be used, if an image cannot be displayed.</p>
+<p>The value of the&nbsp;<code class="w3-codespan">alt</code>&nbsp;attribute can be read by screen readers. This way, someone "listening" to the webpage, e.g. a vision impaired person, can "hear" the element.</p>
+
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<img src="Alan-Turing.jpg.jpg" alt="Alan Turing">
+</body>
+</html>
+```
+</div>
+</br>
