@@ -471,6 +471,7 @@
 <li class="toclevel-2 tocsection-34"><a href="#HTML Styles"><span class="toctext"> HTML Styles</span></a></li>
 <li class="toclevel-2 tocsection-35"><a href="#HTML Text Formatting"><span class="toctext"> HTML Text Formatting</span></a></li>
 <li class="toclevel-2 tocsection-36"><a href="#Quotation"><span class="toctext"> HTML Quotation and Citation Elements</span></a></li>
+<li class="toclevel-2 tocsection-37"><a href="#HTML Comments"><span class="toctext"> HTML Comments</span></a></li>
 <ul>
 
 
@@ -1119,4 +1120,37 @@ Try it Yourself &raquo; </a></div>
 </tr>
 </tbody>
 </table>
+
+</br>
+
+<h2 id="HTML Comments">HTML&nbsp;<span class="color_h1">Comments</span></h2>
+<p class="intro">Comment tags are used to insert comments in the HTML source code.</p>
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<!-- This is a comment -->
+
+<p>This is a paragraph.</p>
+
+<!-- Remember to add more information here -->
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/34.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
+
+
+
+
+
+
+
 
