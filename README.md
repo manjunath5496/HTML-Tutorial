@@ -469,6 +469,7 @@
 <li class="toclevel-2 tocsection-32"><a href="#HTML Horizontal Rules"><span class="toctext">HTML Horizontal Rules</span></a></li>
 <li class="toclevel-2 tocsection-33"><a href="#HTML pre Element"><span class="toctext"> HTML &lt;pre&gt; Element</span></a></li>
 <li class="toclevel-2 tocsection-34"><a href="#HTML Styles"><span class="toctext"> HTML Styles</span></a></li>
+<li class="toclevel-2 tocsection-35"><a href="#HTML Text Formatting"><span class="toctext"> HTML Text Formatting</span></a></li>
 <ul>
 
 
@@ -902,4 +903,14 @@ Try it Yourself &raquo; </a></div>
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/17.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
+
+<h2 id="HTML Text Formatting">HTML&nbsp;<span class="color_h1">Text Formatting</span></h2>
+<h2>HTML &lt;b&gt; and &lt;strong&gt; Elements</h2>
+<p>The HTML&nbsp;<code class="w3-codespan">&lt;b&gt;</code>&nbsp;element defines&nbsp;<strong>bold</strong>&nbsp;text, without any extra importance.</p>
+
+
+
+
+
+
 
