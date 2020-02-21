@@ -471,5 +471,5 @@
 ```
 
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/1.html" target="_blank">
-<button type="button">Try it Yourself &raquo;</button> </a></div>
+Try it Yourself &raquo; </a></div>
 
