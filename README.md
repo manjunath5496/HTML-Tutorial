@@ -447,7 +447,17 @@
 <li>Often producing ungrammatical markup, called&nbsp;<a title="Tag soup" href="https://en.wikipedia.org/wiki/Tag_soup">tag soup</a>&nbsp;or semantically incorrect markup (such as&nbsp;<code id="" class="mw-highlight" dir="ltr"><span class="p">&lt;</span><span class="nt">em</span><span class="p">&gt;</span></code>&nbsp;for italics).</li>
 <li>As a great deal of the information in HTML documents is not in the layout, the model has been criticized for its "what you see is all you get"-nature.</li>
 </ul>
+</br>
 
-
-
+<h2 id="HTML Tutorial">HTML Tutorial</h2>
+<h2>HTML Documents</h2>
+<p>All HTML documents must start with a document type declaration:&nbsp;<code class="w3-codespan">&lt;!DOCTYPE html&gt;</code>.</p>
+<p>The HTML document itself begins with&nbsp;<code class="w3-codespan">&lt;html&gt;</code>&nbsp;and ends with&nbsp;<code class="w3-codespan">&lt;/html&gt;</code>.</p>
+<p>The visible part of the HTML document is between&nbsp;<code class="w3-codespan">&lt;body&gt;</code>&nbsp;and&nbsp;<code class="w3-codespan">&lt;/body&gt;</code>.</p>
+<p>&nbsp;</p>
+<div class="w3-example">
+<h3>Example</h3>
+<div class="w3-code notranslate htmlHigh"><span class="tagnamecolor"><span class="tagcolor">&lt;</span>!DOCTYPE<span class="attributecolor">&nbsp;html</span><span class="tagcolor">&gt;</span></span><br /><span class="tagnamecolor"><span class="tagcolor">&lt;</span>html<span class="tagcolor">&gt;</span></span><br /><span class="tagnamecolor"><span class="tagcolor">&lt;</span>body<span class="tagcolor">&gt;</span></span><br /><br /><span class="tagnamecolor"><span class="tagcolor">&lt;</span>h1<span class="tagcolor">&gt;</span></span>My First Heading<span class="tagnamecolor"><span class="tagcolor">&lt;</span>/h1<span class="tagcolor">&gt;</span></span><br /><span class="tagnamecolor"><span class="tagcolor">&lt;</span>p<span class="tagcolor">&gt;</span></span>My first paragraph.<span class="tagnamecolor"><span class="tagcolor">&lt;</span>/p<span class="tagcolor">&gt;</span></span><br /><br /><span class="tagnamecolor"><span class="tagcolor">&lt;</span>/body<span class="tagcolor">&gt;</span></span><br /><span class="tagnamecolor"><span class="tagcolor">&lt;</span>/html<span class="tagcolor">&gt;</span></span></div>
+<div class="w3-code notranslate htmlHigh">&nbsp;</div>
+<a class="w3-btn w3-margin-bottom" href="https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic_document" target="_blank">Try it Yourself &raquo;</a></div>
 
