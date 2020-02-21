@@ -457,7 +457,19 @@
 <p>&nbsp;</p>
 <div class="w3-example">
 <h3>Example</h3>
-<div class="w3-code notranslate htmlHigh"><span class="tagnamecolor"><span class="tagcolor">&lt;</span>!DOCTYPE<span class="attributecolor">&nbsp;html</span><span class="tagcolor">&gt;</span></span><br /><span class="tagnamecolor"><span class="tagcolor">&lt;</span>html<span class="tagcolor">&gt;</span></span><br /><span class="tagnamecolor"><span class="tagcolor">&lt;</span>body<span class="tagcolor">&gt;</span></span><br /><br /><span class="tagnamecolor"><span class="tagcolor">&lt;</span>h1<span class="tagcolor">&gt;</span></span>My First Heading<span class="tagnamecolor"><span class="tagcolor">&lt;</span>/h1<span class="tagcolor">&gt;</span></span><br /><span class="tagnamecolor"><span class="tagcolor">&lt;</span>p<span class="tagcolor">&gt;</span></span>My first paragraph.<span class="tagnamecolor"><span class="tagcolor">&lt;</span>/p<span class="tagcolor">&gt;</span></span><br /><br /><span class="tagnamecolor"><span class="tagcolor">&lt;</span>/body<span class="tagcolor">&gt;</span></span><br /><span class="tagnamecolor"><span class="tagcolor">&lt;</span>/html<span class="tagcolor">&gt;</span></span></div>
-<div class="w3-code notranslate htmlHigh">&nbsp;</div>
-<a class="w3-btn w3-margin-bottom" href="https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic_document" target="_blank">Try it Yourself &raquo;</a></div>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
+```
+
+<a class="w3-btn w3-margin-bottom" href="https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic_document" target="_blank">
+<button type="button">Try it Yourself &raquo;</button> </a></div>
 
