@@ -1085,5 +1085,37 @@ Try it Yourself &raquo; </a></div>
 </br>
 
 
-
+<h2>HTML Quotation and Citation Elements</h2>
+<table class="w3-table-all notranslate">
+<tbody>
+<tr>
+<th>Tag</th>
+<th>Description</th>
+</tr>
+<tr>
+<td><a href="https://www.w3schools.com/tags/tag_abbr.asp">&lt;abbr&gt;</a></td>
+<td>Defines an abbreviation or acronym</td>
+</tr>
+<tr>
+<td><a href="https://www.w3schools.com/tags/tag_address.asp">&lt;address&gt;</a></td>
+<td>Defines contact information for the author/owner of a document</td>
+</tr>
+<tr>
+<td><a href="https://www.w3schools.com/tags/tag_bdo.asp">&lt;bdo&gt;</a></td>
+<td>Defines the text direction</td>
+</tr>
+<tr>
+<td><a href="https://www.w3schools.com/tags/tag_blockquote.asp">&lt;blockquote&gt;</a></td>
+<td>Defines a section that is quoted from another source</td>
+</tr>
+<tr>
+<td><a href="https://www.w3schools.com/tags/tag_cite.asp">&lt;cite&gt;</a></td>
+<td>Defines the title of a work</td>
+</tr>
+<tr>
+<td><a href="https://www.w3schools.com/tags/tag_q.asp">&lt;q&gt;</a></td>
+<td>Defines a short inline quotation</td>
+</tr>
+</tbody>
+</table>
 
