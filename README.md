@@ -676,7 +676,7 @@ Try it Yourself &raquo; </a></div>
 <!DOCTYPE html>
 <html>
 <body>
-<img src="Alan-Turing.jpg.jpg">
+<img src="Alan-Turing.jpg">
 </body>
 </html>
 ```
@@ -694,7 +694,7 @@ Try it Yourself &raquo; </a></div>
 <!DOCTYPE html>
 <html>
 <body>
-<img src="Alan-Turing.jpg.jpg" width="100" height="100">
+<img src="Alan-Turing.jpg" width="100" height="100">
 </body>
 </html>
 ```
@@ -712,7 +712,7 @@ Try it Yourself &raquo; </a></div>
 <!DOCTYPE html>
 <html>
 <body>
-<img src="Alan-Turing.jpg.jpg" alt="Alan Turing">
+<img src="Alan-Turing.jpg" alt="Alan Turing">
 </body>
 </html>
 ```
