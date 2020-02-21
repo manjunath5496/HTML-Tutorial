@@ -65,6 +65,7 @@
 </ul>  
 
 <li><a href="#WYSIWYG_editors"><span class="toctext">WYSIWYG editors</span></a></li>
+<li><a href="#HTML Tutorial"><span class="toctext">HTML Tutorial</span></a></li>
 </ul>
 </br>
 
