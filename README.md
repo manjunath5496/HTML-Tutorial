@@ -1110,11 +1110,11 @@ Try it Yourself &raquo; </a></div>
 <td>Defines a section that is quoted from another source</td>
 </tr>
 <tr>
-<td><a href="https://www.w3schools.com/tags/tag_cite.asp">&lt;cite&gt;</a></td>
+<td><a href="https://manjunath5496.github.io/html/28.html">&lt;cite&gt;</a></td>
 <td>Defines the title of a work</td>
 </tr>
 <tr>
-<td><a href="https://www.w3schools.com/tags/tag_q.asp">&lt;q&gt;</a></td>
+<td><a href="https://manjunath5496.github.io/html/29.html">&lt;q&gt;</a></td>
 <td>Defines a short inline quotation</td>
 </tr>
 </tbody>
