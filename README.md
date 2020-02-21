@@ -1034,13 +1034,55 @@ Try it Yourself &raquo; </a></div>
 </br>
 <h2>HTML &lt;ins&gt; Element</h2>
 <p>The HTML&nbsp;<code class="w3-codespan">&lt;ins&gt;</code>&nbsp;element defines inserted/added text.</p>
-<p>&nbsp;</p>
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<p>My favorite <ins>color</ins> is red.</p>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/25.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 <h2>HTML &lt;sub&gt; Element</h2>
 <p>The HTML&nbsp;<code class="w3-codespan">&lt;sub&gt;</code>&nbsp;element defines subscripted text.</p>
-<p>&nbsp;</p>
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<p>This is <sub>subscripted</sub> text.</p>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/26.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 <h2>HTML &lt;sup&gt; Element</h2>
 <p>The HTML&nbsp;<code class="w3-codespan">&lt;sup&gt;</code>&nbsp;element defines superscripted text.</p>
-
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<p>This is <sup>superscripted</sup> text.</p>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/27.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
