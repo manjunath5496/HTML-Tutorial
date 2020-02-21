@@ -845,8 +845,24 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2>Fonts</h2>
+<p>The CSS&nbsp;<code class="w3-codespan">font-family</code>&nbsp;property defines the font to be used for an HTML element:</p>
 
-
-
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="font-family:verdana;">This is a heading</h1>
+<p style="font-family:courier;">This is a paragraph.</p>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/15.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
