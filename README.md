@@ -460,6 +460,7 @@
 <li class="toclevel-2 tocsection-23"><a href="#HTML Documents"><span class="toctext">HTML Documents</span></a></li>
 <li class="toclevel-2 tocsection-24"><a href="#HTML Headings"><span class="toctext">HTML Headings</span></a></li>
 <li class="toclevel-2 tocsection-25"><a href="#HTML Paragraphs"><span class="toctext">HTML Paragraphs</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#HTML Links"><span class="toctext">HTML Links</span></a></li>
 <ul>
 
 
@@ -534,6 +535,25 @@ Try it Yourself &raquo; </a></div>
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/3.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
+
+<h2 id="HTML Links">HTML Links</h2>
+<p>HTML links are defined with the&nbsp;<code class="w3-codespan">&lt;a&gt;</code>&nbsp;tag:</p>
+</br>
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<a href="https://www.google.com">This is a link</a>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/4.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
 
 
 
