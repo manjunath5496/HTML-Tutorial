@@ -1102,11 +1102,11 @@ Try it Yourself &raquo; </a></div>
 <td>Defines contact information for the author/owner of a document</td>
 </tr>
 <tr>
-<td><a href="https://www.w3schools.com/tags/tag_bdo.asp">&lt;bdo&gt;</a></td>
+<td><a href="https://manjunath5496.github.io/html/32.html">&lt;bdo&gt;</a></td>
 <td>Defines the text direction</td>
 </tr>
 <tr>
-<td><a href="https://www.w3schools.com/tags/tag_blockquote.asp">&lt;blockquote&gt;</a></td>
+<td><a href="https://manjunath5496.github.io/html/33.html">&lt;blockquote&gt;</a></td>
 <td>Defines a section that is quoted from another source</td>
 </tr>
 <tr>
