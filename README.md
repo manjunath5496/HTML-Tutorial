@@ -4615,4 +4615,33 @@ Try it Yourself &raquo; </a></div>
 <li>The&nbsp;<code class="w3-codespan">for</code>&nbsp;attribute of the &lt;label&gt; tag should be equal to the&nbsp;<code class="w3-codespan">id</code>&nbsp;attribute of the &lt;input&gt; element to bind them together.</li>
 </ul>
 
+</br>
+
+<h2>Radio Buttons</h2>
+<p><code class="w3-codespan">&lt;input type="radio"&gt;</code>&nbsp;defines a&nbsp;<strong>radio button</strong>.</p>
+<p>Radio buttons let a user select ONE of a limited number of choices.</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<form>
+  <input type="radio" id="male" name="gender" value="male">
+  <label for="male">Male</label><br>
+  <input type="radio" id="female" name="gender" value="female">
+  <label for="female">Female</label><br>
+  <input type="radio" id="other" name="gender" value="other">
+  <label for="other">Other</label>
+</form>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/72.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
