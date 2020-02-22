@@ -4678,8 +4678,32 @@ Try it Yourself &raquo; </a></div>
 </br>
 
 <h2 id="HTML Tables">HTML&nbsp;<span class="color_h1">Tables</span></h2>
-<p>An HTML table is defined with the&nbsp;<code class="w3-codespan">&lt;table&gt;</code>&nbsp;tag.</p>
-<p>Each table row is defined with the&nbsp;<code class="w3-codespan">&lt;tr&gt;</code>&nbsp;tag. A table header is defined with the&nbsp;<code class="w3-codespan">&lt;th&gt;</code>&nbsp;tag. A table data/cell is defined with the&nbsp;<code class="w3-codespan">&lt;td&gt;</code>&nbsp;tag.</p>
+<p>&nbsp;</p>
+<h2>HTML Table Tags</h2>
+<table class="w3-table-all notranslate">
+<tbody>
+<tr>
+<th>Tag</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>&lt;table&gt;</td>
+<td>Defines a table</td>
+</tr>
+<tr>
+<td>&lt;th&gt;</td>
+<td>Defines a header cell in a table</td>
+</tr>
+<tr>
+<td>&lt;tr&gt;</td>
+<td>Defines a row in a table</td>
+</tr>
+<tr>
+<td>&lt;td&gt;</td>
+<td>Defines a cell in a table</td>
+</tr>
+</tbody>
+</table>
 
 </br>
 
