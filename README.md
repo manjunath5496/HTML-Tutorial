@@ -1252,603 +1252,603 @@ Try it Yourself &raquo; </a></div>
 </br>
 
 
-<table border="4" width="60%" cellspacing="2" cellpadding="2">
+<table>
 <tbody>
 <tr>
-<th bgcolor="#0074B4"><span style="color: white; font-family: Consolas; font-size: medium;">Color</span></th>
-<th bgcolor="#0074B4"><span style="color: white; font-family: Consolas; font-size: medium;">HTML Code</span></th>
+<th style="text-align: left;" bgcolor="#0074B4"><span style="color: white; font-family: Consolas; font-size: medium;">Color</span></th>
+<th style="text-align: left;" bgcolor="#0074B4"><span style="color: white; font-family: Consolas; font-size: medium;">HTML Code</span></th>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Alice Blue</span></center></td>
-<td><center>#F0F8FF</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Alice Blue</span></td>
+<td style="text-align: left;">#F0F8FF</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Antique White</span></center></td>
-<td><center>#FAEBD7</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Antique White</span></td>
+<td style="text-align: left;">#FAEBD7</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Aqua</span></center></td>
-<td><center>#00FFFF</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Aqua</span></td>
+<td style="text-align: left;">#00FFFF</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Aquamarine</span></center></td>
-<td><center>#7FFFD4</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Aquamarine</span></td>
+<td style="text-align: left;">#7FFFD4</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Azure</span></center></td>
-<td><center>#F0FFFF</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Azure</span></td>
+<td style="text-align: left;">#F0FFFF</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Beige</span></center></td>
-<td><center>#F5F5DC</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Beige</span></td>
+<td style="text-align: left;">#F5F5DC</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Bisque</span></center></td>
-<td><center>#FFE4C4</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Bisque</span></td>
+<td style="text-align: left;">#FFE4C4</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Black</span></center></td>
-<td><center>#000000</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Black</span></td>
+<td style="text-align: left;">#000000</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Blanched Almond</span></center></td>
-<td><center>#FFEBCD</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Blanched Almond</span></td>
+<td style="text-align: left;">#FFEBCD</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Blue</span></center></td>
-<td><center>#0000FF</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Blue</span></td>
+<td style="text-align: left;">#0000FF</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Blue Violet</span></center></td>
-<td><center>#8A2BE2</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Blue Violet</span></td>
+<td style="text-align: left;">#8A2BE2</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Brown</span></center></td>
-<td><center>#A52A2A</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Brown</span></td>
+<td style="text-align: left;">#A52A2A</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Burly Wood</span></center></td>
-<td><center>#DEB887</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Burly Wood</span></td>
+<td style="text-align: left;">#DEB887</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Cadet Blue</span></center></td>
-<td><center>#5F9EA0</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Cadet Blue</span></td>
+<td style="text-align: left;">#5F9EA0</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Chartreuse</span></center></td>
-<td><center>#7FFF00</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Chartreuse</span></td>
+<td style="text-align: left;">#7FFF00</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Chocolate</span></center></td>
-<td><center>#D2691E</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Chocolate</span></td>
+<td style="text-align: left;">#D2691E</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Coral</span></center></td>
-<td><center>#FF7F50</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Coral</span></td>
+<td style="text-align: left;">#FF7F50</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Cornflower Blue</span></center></td>
-<td><center>#6495ED</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Cornflower Blue</span></td>
+<td style="text-align: left;">#6495ED</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Corn silk</span></center></td>
-<td><center>#FFF8DC</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Corn silk</span></td>
+<td style="text-align: left;">#FFF8DC</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Crimson</span></center></td>
-<td><center>#DC143C</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Crimson</span></td>
+<td style="text-align: left;">#DC143C</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Cyan</span></center></td>
-<td><center>#00FFFF</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Cyan</span></td>
+<td style="text-align: left;">#00FFFF</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Dark Blue</span></center></td>
-<td><center>#00008B</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Dark Blue</span></td>
+<td style="text-align: left;">#00008B</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Dark Cyan</span></center></td>
-<td><center>#008B8B</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Dark Cyan</span></td>
+<td style="text-align: left;">#008B8B</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Dark Goldenrod</span></center></td>
-<td><center>#B8860B</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Dark Goldenrod</span></td>
+<td style="text-align: left;">#B8860B</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Dark Gray</span></center></td>
-<td><center>#A9A9A9</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Dark Gray</span></td>
+<td style="text-align: left;">#A9A9A9</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Dark Grey</span></center></td>
-<td><center>#A9A9A9</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Dark Grey</span></td>
+<td style="text-align: left;">#A9A9A9</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Dark Green</span></center></td>
-<td><center>#006400</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Dark Green</span></td>
+<td style="text-align: left;">#006400</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Dark Khaki</span></center></td>
-<td><center>#BDB76B</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Dark Khaki</span></td>
+<td style="text-align: left;">#BDB76B</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Dark Magenta</span></center></td>
-<td><center>#8B008B</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Dark Magenta</span></td>
+<td style="text-align: left;">#8B008B</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Dark Olive Green</span></center></td>
-<td><center>#556B2F</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Dark Olive Green</span></td>
+<td style="text-align: left;">#556B2F</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Dark orange</span></center></td>
-<td><center>#FF8C00</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Dark orange</span></td>
+<td style="text-align: left;">#FF8C00</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Dark Orchid</span></center></td>
-<td><center>#9932CC</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Dark Orchid</span></td>
+<td style="text-align: left;">#9932CC</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Dark Red</span></center></td>
-<td><center>#8B0000</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Dark Red</span></td>
+<td style="text-align: left;">#8B0000</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Dark Salmon</span></center></td>
-<td><center>#E9967A</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Dark Salmon</span></td>
+<td style="text-align: left;">#E9967A</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Dark Sea Green</span></center></td>
-<td><center>#8FBC8F</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Dark Sea Green</span></td>
+<td style="text-align: left;">#8FBC8F</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Dark Slate Blue</span></center></td>
-<td><center>#483D8B</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Dark Slate Blue</span></td>
+<td style="text-align: left;">#483D8B</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Dark Slate Gray</span></center></td>
-<td><center>#2F4F4F</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Dark Slate Gray</span></td>
+<td style="text-align: left;">#2F4F4F</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Beige</span></center></td>
-<td><center>#F5F5DC</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Beige</span></td>
+<td style="text-align: left;">#F5F5DC</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Dark Slate Grey</span></center></td>
-<td><center>#2F4F4F</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Dark Slate Grey</span></td>
+<td style="text-align: left;">#2F4F4F</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Dark Turquoise</span></center></td>
-<td><center>#00CED1</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Dark Turquoise</span></td>
+<td style="text-align: left;">#00CED1</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Dark Violet</span></center></td>
-<td><center>#9400D3</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Dark Violet</span></td>
+<td style="text-align: left;">#9400D3</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Deep Pink</span></center></td>
-<td><center>#FF1493</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Deep Pink</span></td>
+<td style="text-align: left;">#FF1493</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Deep Sky Blue</span></center></td>
-<td><center>#00BFFF</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Deep Sky Blue</span></td>
+<td style="text-align: left;">#00BFFF</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Dim Gray</span></center></td>
-<td><center>#696969</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Dim Gray</span></td>
+<td style="text-align: left;">#696969</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Dim Grey</span></center></td>
-<td><center>#696969</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Dim Grey</span></td>
+<td style="text-align: left;">#696969</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Dodger Blue</span></center></td>
-<td><center>#1E90FF</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Dodger Blue</span></td>
+<td style="text-align: left;">#1E90FF</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Fire Brick</span></center></td>
-<td><center>#B22222</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Fire Brick</span></td>
+<td style="text-align: left;">#B22222</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Floral White</span></center></td>
-<td><center>#FFFAF0</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Floral White</span></td>
+<td style="text-align: left;">#FFFAF0</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Forest Green</span></center></td>
-<td><center>#228B22</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Forest Green</span></td>
+<td style="text-align: left;">#228B22</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Fuchsia</span></center></td>
-<td><center>#FF00FF</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Fuchsia</span></td>
+<td style="text-align: left;">#FF00FF</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Gainsboro</span></center></td>
-<td><center>#DCDCDC</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Gainsboro</span></td>
+<td style="text-align: left;">#DCDCDC</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Ghost White</span></center></td>
-<td><center>#F8F8FF</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Ghost White</span></td>
+<td style="text-align: left;">#F8F8FF</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Gold</span></center></td>
-<td><center>#FFD700</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Gold</span></td>
+<td style="text-align: left;">#FFD700</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Goldenrod</span></center></td>
-<td><center>#DAA520</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Goldenrod</span></td>
+<td style="text-align: left;">#DAA520</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Gray</span></center></td>
-<td><center>#808080</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Gray</span></td>
+<td style="text-align: left;">#808080</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Grey</span></center></td>
-<td><center>#808080</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Grey</span></td>
+<td style="text-align: left;">#808080</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Green</span></center></td>
-<td><center>#008000</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Green</span></td>
+<td style="text-align: left;">#008000</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Green Yellow</span></center></td>
-<td><center>#ADFF2F</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Green Yellow</span></td>
+<td style="text-align: left;">#ADFF2F</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Honeydew</span></center></td>
-<td><center>#F0FFF0</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Honeydew</span></td>
+<td style="text-align: left;">#F0FFF0</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Hot Pink</span></center></td>
-<td><center>#FF69B4</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Hot Pink</span></td>
+<td style="text-align: left;">#FF69B4</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Indian Red</span></center></td>
-<td><center>#CD5C5C</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Indian Red</span></td>
+<td style="text-align: left;">#CD5C5C</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Indigo</span></center></td>
-<td><center>#4B0082</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Indigo</span></td>
+<td style="text-align: left;">#4B0082</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Ivory</span></center></td>
-<td><center>#FFFFF0</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Ivory</span></td>
+<td style="text-align: left;">#FFFFF0</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Khaki</span></center></td>
-<td><center>#F0E68C</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Khaki</span></td>
+<td style="text-align: left;">#F0E68C</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Lavender</span></center></td>
-<td><center>#E6E6FA</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Lavender</span></td>
+<td style="text-align: left;">#E6E6FA</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Lavender Blush</span></center></td>
-<td><center>#FFF0F5</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Lavender Blush</span></td>
+<td style="text-align: left;">#FFF0F5</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Lawn Green</span></center></td>
-<td><center>#7CFC00</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Lawn Green</span></td>
+<td style="text-align: left;">#7CFC00</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Lemon Chiffon</span></center></td>
-<td><center>#FFFACD</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Lemon Chiffon</span></td>
+<td style="text-align: left;">#FFFACD</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Light Blue</span></center></td>
-<td><center>#ADD8E6</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Light Blue</span></td>
+<td style="text-align: left;">#ADD8E6</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Light Coral</span></center></td>
-<td><center>#F08080</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Light Coral</span></td>
+<td style="text-align: left;">#F08080</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Light Cyan</span></center></td>
-<td><center>#E0FFFF</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Light Cyan</span></td>
+<td style="text-align: left;">#E0FFFF</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Light Golden Rod Yellow</span></center></td>
-<td><center>#FAFAD2</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Light Golden Rod Yellow</span></td>
+<td style="text-align: left;">#FAFAD2</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Light Gray</span></center></td>
-<td><center>#D3D3D3</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Light Gray</span></td>
+<td style="text-align: left;">#D3D3D3</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Light Grey</span></center></td>
-<td><center>#D3D3D3</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Light Grey</span></td>
+<td style="text-align: left;">#D3D3D3</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Light Green</span></center></td>
-<td><center>#90EE90</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Light Green</span></td>
+<td style="text-align: left;">#90EE90</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Light Pink</span></center></td>
-<td><center>#FFB6C1</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Light Pink</span></td>
+<td style="text-align: left;">#FFB6C1</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Light Salmon</span></center></td>
-<td><center>#FFA07A</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Light Salmon</span></td>
+<td style="text-align: left;">#FFA07A</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Light Sea Green</span></center></td>
-<td><center>#20B2AA</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Light Sea Green</span></td>
+<td style="text-align: left;">#20B2AA</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Light Sky Blue</span></center></td>
-<td><center>#87CEFA</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Light Sky Blue</span></td>
+<td style="text-align: left;">#87CEFA</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Yellow Green</span></center></td>
-<td><center>#9ACD32</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Yellow Green</span></td>
+<td style="text-align: left;">#9ACD32</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Yellow</span></center></td>
-<td><center>#FFFF00</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Yellow</span></td>
+<td style="text-align: left;">#FFFF00</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">White Smoke</span></center></td>
-<td><center>#F5F5F5</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">White Smoke</span></td>
+<td style="text-align: left;">#F5F5F5</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">White</span></center></td>
-<td><center>#FFFFFF</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">White</span></td>
+<td style="text-align: left;">#FFFFFF</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Wheat</span></center></td>
-<td><center>#F5DEB3</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Wheat</span></td>
+<td style="text-align: left;">#F5DEB3</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Violet</span></center></td>
-<td><center>#EE82EE</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Violet</span></td>
+<td style="text-align: left;">#EE82EE</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Light Slate Gray</span></center></td>
-<td><center>#778899</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Light Slate Gray</span></td>
+<td style="text-align: left;">#778899</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Light Slate Grey</span></center></td>
-<td><center>#778899</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Light Slate Grey</span></td>
+<td style="text-align: left;">#778899</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Light Steel Blue</span></center></td>
-<td><center>#B0C4DE</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Light Steel Blue</span></td>
+<td style="text-align: left;">#B0C4DE</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Light yellow</span></center></td>
-<td><center>#FFFFE0</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Light yellow</span></td>
+<td style="text-align: left;">#FFFFE0</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Lime</span></center></td>
-<td><center>#00FF00</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Lime</span></td>
+<td style="text-align: left;">#00FF00</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Lime Green</span></center></td>
-<td><center>#32CD32</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Lime Green</span></td>
+<td style="text-align: left;">#32CD32</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Linen</span></center></td>
-<td><center>#FAF0E6</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Linen</span></td>
+<td style="text-align: left;">#FAF0E6</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Magenta</span></center></td>
-<td><center>#FF00FF</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Magenta</span></td>
+<td style="text-align: left;">#FF00FF</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Maroon</span></center></td>
-<td><center>#800000</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Maroon</span></td>
+<td style="text-align: left;">#800000</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Turquoise</span></center></td>
-<td><center>#40E0D0</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Turquoise</span></td>
+<td style="text-align: left;">#40E0D0</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Tomato</span></center></td>
-<td><center>#FF6347</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Tomato</span></td>
+<td style="text-align: left;">#FF6347</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Thistle</span></center></td>
-<td><center>#D8BFD8</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Thistle</span></td>
+<td style="text-align: left;">#D8BFD8</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Teal</span></center></td>
-<td><center>#008080</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Teal</span></td>
+<td style="text-align: left;">#008080</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Tan</span></center></td>
-<td><center>#D2B48C</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Tan</span></td>
+<td style="text-align: left;">#D2B48C</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Medium Aqua Marine</span></center></td>
-<td><center>#66CDAA</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Medium Aqua Marine</span></td>
+<td style="text-align: left;">#66CDAA</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Steel Blue</span></center></td>
-<td><center>#4682B4</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Steel Blue</span></td>
+<td style="text-align: left;">#4682B4</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Medium Blue</span></center></td>
-<td><center>#0000CD</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Medium Blue</span></td>
+<td style="text-align: left;">#0000CD</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Medium Orchid</span></center></td>
-<td><center>#BA55D3</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Medium Orchid</span></td>
+<td style="text-align: left;">#BA55D3</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Spring Green</span></center></td>
-<td><center>#00FF7F</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Spring Green</span></td>
+<td style="text-align: left;">#00FF7F</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Snow</span></center></td>
-<td><center>#FFFAFA</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Snow</span></td>
+<td style="text-align: left;">#FFFAFA</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Medium Purple</span></center></td>
-<td><center>#9370D8</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Medium Purple</span></td>
+<td style="text-align: left;">#9370D8</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Medium Sea Green</span></center></td>
-<td><center>#3CB371</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Medium Sea Green</span></td>
+<td style="text-align: left;">#3CB371</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Medium Slate Blue</span></center></td>
-<td><center>#7B68EE</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Medium Slate Blue</span></td>
+<td style="text-align: left;">#7B68EE</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Medium Spring Green</span></center></td>
-<td><center>#00FA9A</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Medium Spring Green</span></td>
+<td style="text-align: left;">#00FA9A</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Slate Gray</span></center></td>
-<td><center>#708090</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Slate Gray</span></td>
+<td style="text-align: left;">#708090</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Slate Grey</span></center></td>
-<td><center>#708090</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Slate Grey</span></td>
+<td style="text-align: left;">#708090</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Silver</span></center></td>
-<td><center>#C0C0C0</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Silver</span></td>
+<td style="text-align: left;">#C0C0C0</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Sienna</span></center></td>
-<td><center>#A0522D</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Sienna</span></td>
+<td style="text-align: left;">#A0522D</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Medium Turquoise</span></center></td>
-<td><center>#48D1CC</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Medium Turquoise</span></td>
+<td style="text-align: left;">#48D1CC</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Medium Violet Red</span></center></td>
-<td><center>#C71585</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Medium Violet Red</span></td>
+<td style="text-align: left;">#C71585</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Midnight Blue</span></center></td>
-<td><center>#191970</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Midnight Blue</span></td>
+<td style="text-align: left;">#191970</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Olive</span></center></td>
-<td><center>#808000</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Olive</span></td>
+<td style="text-align: left;">#808000</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Mint Cream</span></center></td>
-<td><center>#F5FFFA</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Mint Cream</span></td>
+<td style="text-align: left;">#F5FFFA</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Misty Rose</span></center></td>
-<td><center>#ffe4e1</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Misty Rose</span></td>
+<td style="text-align: left;">#ffe4e1</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Moccasin</span></center></td>
-<td><center>#FFE4B5</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Moccasin</span></td>
+<td style="text-align: left;">#FFE4B5</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Peru</span></center></td>
-<td><center>#CD853F</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Peru</span></td>
+<td style="text-align: left;">#CD853F</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Plum</span></center></td>
-<td><center>#DDA0DD</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Plum</span></td>
+<td style="text-align: left;">#DDA0DD</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Navajo White</span></center></td>
-<td><center>#FFDEAD</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Navajo White</span></td>
+<td style="text-align: left;">#FFDEAD</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Navy</span></center></td>
-<td><center>#000080</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Navy</span></td>
+<td style="text-align: left;">#000080</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Old Lace</span></center></td>
-<td><center>#FDF5E6</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Old Lace</span></td>
+<td style="text-align: left;">#FDF5E6</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Olive Drab</span></center></td>
-<td><center>#6B8E23</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Olive Drab</span></td>
+<td style="text-align: left;">#6B8E23</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Orange</span></center></td>
-<td><center>#FFA500</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Orange</span></td>
+<td style="text-align: left;">#FFA500</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Orange Red</span></center></td>
-<td><center>#FF4500</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Orange Red</span></td>
+<td style="text-align: left;">#FF4500</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Orchid</span></center></td>
-<td><center>#DA70D6</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Orchid</span></td>
+<td style="text-align: left;">#DA70D6</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Pink</span></center></td>
-<td><center>#FFC0CB</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Pink</span></td>
+<td style="text-align: left;">#FFC0CB</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Salmon</span></center></td>
-<td><center>#FA8072</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Salmon</span></td>
+<td style="text-align: left;">#FA8072</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Pale Golden Rod</span></center></td>
-<td><center>#EEE8AA</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Pale Golden Rod</span></td>
+<td style="text-align: left;">#EEE8AA</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Slate Blue</span></center></td>
-<td><center>#6A5ACD</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Slate Blue</span></td>
+<td style="text-align: left;">#6A5ACD</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Sky Blue</span></center></td>
-<td><center>#87CEEB</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Sky Blue</span></td>
+<td style="text-align: left;">#87CEEB</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Sea Shell</span></center></td>
-<td><center>#FFF5EE</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Sea Shell</span></td>
+<td style="text-align: left;">#FFF5EE</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Pale Green</span></center></td>
-<td><center>#98FB98</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Pale Green</span></td>
+<td style="text-align: left;">#98FB98</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Pale Turquoise</span></center></td>
-<td><center>#AFEEEE</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Pale Turquoise</span></td>
+<td style="text-align: left;">#AFEEEE</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Pale Violet Red</span></center></td>
-<td><center>#D87093</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Pale Violet Red</span></td>
+<td style="text-align: left;">#D87093</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Sea Green</span></center></td>
-<td><center>#2E8B57</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Sea Green</span></td>
+<td style="text-align: left;">#2E8B57</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Sandy Brown</span></center></td>
-<td><center>#F4A460</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Sandy Brown</span></td>
+<td style="text-align: left;">#F4A460</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Papaya Whip</span></center></td>
-<td><center>#FFEFD5</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Papaya Whip</span></td>
+<td style="text-align: left;">#FFEFD5</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Peach Puff</span></center></td>
-<td><center>#FFDAB9</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Peach Puff</span></td>
+<td style="text-align: left;">#FFDAB9</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Powder Blue</span></center></td>
-<td><center>#B0E0E6</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Powder Blue</span></td>
+<td style="text-align: left;">#B0E0E6</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Purple</span></center></td>
-<td><center>#800080</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Purple</span></td>
+<td style="text-align: left;">#800080</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Red</span></center></td>
-<td><center>#FF0000</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Red</span></td>
+<td style="text-align: left;">#FF0000</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Rosy Brown</span></center></td>
-<td><center>#BC8F8F</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Rosy Brown</span></td>
+<td style="text-align: left;">#BC8F8F</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Royal Blue</span></center></td>
-<td><center>#4169E1</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Royal Blue</span></td>
+<td style="text-align: left;">#4169E1</td>
 </tr>
 <tr>
-<td><center><span style="color: black; font-family: Consolas; font-size: medium;">Saddle Brown</span></center></td>
-<td><center>#8B4513</center></td>
+<td style="text-align: left;"><span style="color: black; font-family: Consolas; font-size: medium;">Saddle Brown</span></td>
+<td style="text-align: left;">#8B4513</td>
 </tr>
 </tbody>
 </table>
