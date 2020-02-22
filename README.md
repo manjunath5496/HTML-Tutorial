@@ -475,6 +475,7 @@
 <li class="toclevel-2 tocsection-37"><a href="#HTML Colors"><span class="toctext">HTML Colors</span></a></li>
 <li class="toclevel-2 tocsection-38"><a href="#HTML CSS"><span class="toctext">HTML CSS</span></a></li>
 <li class="toclevel-2 tocsection-39"><a href="#The target Attribute"><span class="toctext">HTML Links - The target Attribute</span></a></li>
+<li class="toclevel-2 tocsection-40"><a href="#HTML JavaScript"><span class="toctext">HTML JavaScript</span></a></li>
 <ul>
 
 
@@ -2187,4 +2188,35 @@ Try it Yourself &raquo; </a></div>
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/51.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
+
+<h2 id="HTML JavaScript">HTML&nbsp;<span class="color_h1">JavaScript</span></h2>
+<p class="w3-clear nextprev">JavaScript makes HTML pages more dynamic and interactive.</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<button type="button" 
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+<p id="demo"></p>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/52.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
+
+
+
+
+
+
 
