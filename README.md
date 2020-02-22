@@ -485,6 +485,7 @@
 <li class="toclevel-2 tocsection-47"><a href="#HTML SVG"><span class="toctext">HTML SVG</span></a></li>
 <li class="toclevel-2 tocsection-48"><a href="#HTML Iframes"><span class="toctext">HTML Iframes</span></a></li>
 <li class="toclevel-2 tocsection-49"><a href="#HTML Computer Code Elements"><span class="toctext">HTML Computer Code Elements</span></a></li>
+<li class="toclevel-2 tocsection-50"><a href="#HTML Forms"><span class="toctext">HTML Forms</span></a></li>
 <ul>
 
 
@@ -4543,7 +4544,20 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2 id="HTML Forms">HTML&nbsp;<span class="color_h1">Forms</span></h2>
+<p>The &lt;form&gt; Element</p>
+<p>The HTML&nbsp;<code class="w3-codespan">&lt;form&gt;</code>&nbsp;element defines a form that is used to collect user input:</p>
+<p>&nbsp;</p>
 
+<div class="w3-example">
+  
+```HTML language
+<form>
 
+form elements
 
+</form>
+```
+</div>
+</br>
 
