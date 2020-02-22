@@ -478,6 +478,7 @@
 <li class="toclevel-2 tocsection-40"><a href="#HTML JavaScript"><span class="toctext">HTML JavaScript</span></a></li>
 <li class="toclevel-2 tocsection-41"><a href="#HTML Link Bookmarks"><span class="toctext">HTML Link Bookmarks</span></a></li>
 <li class="toclevel-2 tocsection-42"><a href="#HTML Link Colors"><span class="toctext">HTML Link Colors</span></a></li>
+<li class="toclevel-2 tocsection-43"><a href="#HTML Symbols"><span class="toctext">HTML Symbols</span></a></li>
 <ul>
 
 
@@ -2402,6 +2403,7 @@ background-color: green;
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2 id="HTML Symbols">HTML Symbols </h2>
 
 <div id="code22" style="font-family: Corbel;">
 <h2>Special HTML codes</h2>
