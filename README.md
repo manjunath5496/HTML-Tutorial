@@ -4457,6 +4457,91 @@ Try it Yourself &raquo; </a></div>
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="codel">HTML &lt;code&gt; For Computer Code</h2>
+<p>The HTML&nbsp;<code class="w3-codespan">&lt;code&gt;</code>&nbsp;element defines a fragment of computer code.</p>
+<p>Text surrounded by&nbsp;<code class="w3-codespan">&lt;code&gt;</code>&nbsp;tags is typically displayed in a monospace font:&nbsp;</p>
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<code>
+x = 5;
+y = 6;
+z = x + y;
+</code>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/67.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+<h2 id ="kbdl">HTML &lt;kbd&gt; For Keyboard Input</h2>
+<p>The HTML&nbsp;<code class="w3-codespan">&lt;kbd&gt;</code>&nbsp;element represents user input, like keyboard input or voice commands.</p>
+<p>Text surrounded by&nbsp;<code class="w3-codespan">&lt;kbd&gt;</code>&nbsp;tags is typically displayed in a monospace font:</p>
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<p>Save the document by pressing <kbd>Ctrl + S</kbd></p>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/68.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+<h2 id="sampl">HTML &lt;samp&gt; For Program Output</h2>
+<p>The HTML&nbsp;<code class="w3-codespan">&lt;samp&gt;</code>&nbsp;element represents output from a program or computing system.</p>
+<p>Text surrounded by&nbsp;<code class="w3-codespan">&lt;samp&gt;</code>&nbsp;tags is typically displayed in a monospace font:</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<p>If you input wrong value, the program will return <samp>Error!</samp></p>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/69.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+<h2 id="varl">HTML &lt;var&gt; For Variables</h2>
+<p>The HTML&nbsp;<code class="w3-codespan">&lt;var&gt;</code>&nbsp;element defines a variable.</p>
+<p>The variable could be a variable in a mathematical expression or a variable in programming context:</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<p>Einstein wrote: <var>E</var> = <var>mc</var><sup>2</sup>.</p>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/70.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
