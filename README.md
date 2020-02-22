@@ -4427,6 +4427,36 @@ Try it Yourself &raquo; </a></div>
 </br>
 
 
+<h2 id="HTML Computer Code Elements">HTML&nbsp;<span class="color_h1">Computer Code Elements</span></h2>
+<p>&nbsp;</p>
+<table class="w3-table-all notranslate">
+<tbody>
+<tr>
+<th>Tag</th>
+<th>Description</th>
+</tr>
+<tr>
+<td><a href="#codel">&lt;code&gt;</a></td>
+<td>Defines programming code</td>
+</tr>
+<tr>
+<td><a href="#kbdl">&lt;kbd&gt;</a></td>
+<td>Defines keyboard input&nbsp;</td>
+</tr>
+<tr>
+<td><a href="#sampl">&lt;samp&gt;</a></td>
+<td>Defines computer output</td>
+</tr>
+<tr>
+<td><a href="#varl">&lt;var&gt;</a></td>
+<td>Defines a variable</td>
+</tr>
+<tr>
+<td><a href="#prepl">&lt;pre&gt;</a></td>
+<td>Defines preformatted text</td>
+</tr>
+</tbody>
+</table>
 
 
 
