@@ -4452,7 +4452,7 @@ Try it Yourself &raquo; </a></div>
 <td>Defines a variable</td>
 </tr>
 <tr>
-<td><a href="#prepl">&lt;pre&gt;</a></td>
+<td><a href="#HTML pre Element">&lt;pre&gt;</a></td>
 <td>Defines preformatted text</td>
 </tr>
 </tbody>
