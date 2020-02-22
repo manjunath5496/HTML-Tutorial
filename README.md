@@ -2355,7 +2355,7 @@ text-decoration: none;
 </head>
 <body>
 
-<a href="https://www.google.com" target="_blank">GOOGLE Images</a> 
+<a href="https://www.google.com" target="_blank">GOOGLE </a> 
 
 </body>
 </html>
@@ -2363,6 +2363,44 @@ text-decoration: none;
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/54.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
+
+<h2>Link Buttons</h2>
+<p>A link can also be styled as a button, by using CSS:</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+a:hover {
+  background-color: red;
+  background-color: #f44336;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+</style>
+</head>
+<body>
+
+<a href="https://www.google.com" target="_blank">GOOGLE </a> 
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/54.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
+
 
 
 
