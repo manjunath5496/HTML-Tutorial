@@ -476,6 +476,7 @@
 <li class="toclevel-2 tocsection-38"><a href="#HTML CSS"><span class="toctext">HTML CSS</span></a></li>
 <li class="toclevel-2 tocsection-39"><a href="#The target Attribute"><span class="toctext">HTML Links - The target Attribute</span></a></li>
 <li class="toclevel-2 tocsection-40"><a href="#HTML JavaScript"><span class="toctext">HTML JavaScript</span></a></li>
+<li class="toclevel-2 tocsection-40"><a href="#HTML Link Bookmarks"><span class="toctext">HTML Link Bookmarks</span></a></li>
 <ul>
 
 
@@ -2240,6 +2241,95 @@ document.getElementById("demo").innerHTML = "Hello JavaScript!";
 </div>
 </br>
 
+<h2 id="HTML Link Bookmarks">HTML&nbsp;<span class="color_h1">Link Bookmarks</span></h2>
+<p>HTML bookmarks are used to allow readers to jump to specific parts of a Web page.</p>
+<p>Bookmarks can be useful if a webpage is very long.</p>
 
+</br>
 
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
 
+<p><a href="#C4">Jump to Chapter 4</a></p>
+<p><a href="#C10">Jump to Chapter 10</a></p>
+
+<h2>Chapter 1</h2>
+<p>This chapter explains ba bla bla</p>
+
+<h2>Chapter 2</h2>
+<p>This chapter explains ba bla bla</p>
+
+<h2>Chapter 3</h2>
+<p>This chapter explains ba bla bla</p>
+
+<h2 id="C4">Chapter 4</h2>
+<p>This chapter explains ba bla bla</p>
+
+<h2>Chapter 5</h2>
+<p>This chapter explains ba bla bla</p>
+
+<h2>Chapter 6</h2>
+<p>This chapter explains ba bla bla</p>
+
+<h2>Chapter 7</h2>
+<p>This chapter explains ba bla bla</p>
+
+<h2>Chapter 8</h2>
+<p>This chapter explains ba bla bla</p>
+
+<h2>Chapter 9</h2>
+<p>This chapter explains ba bla bla</p>
+
+<h2 id="C10">Chapter 10</h2>
+<p>This chapter explains ba bla bla</p>
+
+<h2>Chapter 11</h2>
+<p>This chapter explains ba bla bla</p>
+
+<h2>Chapter 12</h2>
+<p>This chapter explains ba bla bla</p>
+
+<h2>Chapter 13</h2>
+<p>This chapter explains ba bla bla</p>
+
+<h2>Chapter 14</h2>
+<p>This chapter explains ba bla bla</p>
+
+<h2>Chapter 15</h2>
+<p>This chapter explains ba bla bla</p>
+
+<h2>Chapter 16</h2>
+<p>This chapter explains ba bla bla</p>
+
+<h2>Chapter 17</h2>
+<p>This chapter explains ba bla bla</p>
+
+<h2>Chapter 18</h2>
+<p>This chapter explains ba bla bla</p>
+
+<h2>Chapter 19</h2>
+<p>This chapter explains ba bla bla</p>
+
+<h2>Chapter 20</h2>
+<p>This chapter explains ba bla bla</p>
+
+<h2>Chapter 21</h2>
+<p>This chapter explains ba bla bla</p>
+
+<h2>Chapter 22</h2>
+<p>This chapter explains ba bla bla</p>
+
+<h2>Chapter 23</h2>
+<p>This chapter explains ba bla bla</p>
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/53.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
