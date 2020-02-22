@@ -2355,7 +2355,7 @@ text-decoration: none;
 </head>
 <body>
 
-<a href="https://www.google.com/" target="_blank">GOOGLE Images</a> 
+<a href="https://www.google.com" target="_blank">GOOGLE Images</a> 
 
 </body>
 </html>
