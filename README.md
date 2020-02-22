@@ -483,6 +483,7 @@
 <li class="toclevel-2 tocsection-45"><a href="#HTML Audio"><span class="toctext">HTML Audio</span></a></li>
 <li class="toclevel-2 tocsection-46"><a href="#HTML Canvas"><span class="toctext">HTML Canvas</span></a></li>
 <li class="toclevel-2 tocsection-47"><a href="#HTML SVG"><span class="toctext">HTML SVG</span></a></li>
+<li class="toclevel-2 tocsection-48"><a href="#HTML Iframes"><span class="toctext">HTML Iframes</span></a></li>
 <ul>
 
 
@@ -4348,9 +4349,43 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2 id="HTML Iframes">HTML&nbsp;<span class="color_h1">Iframes</span></h2>
+<p><span class="color_h1">An iframe is used to display a web page within a web page.</span></p>
+<h2>Iframe - Set Height and Width</h2>
+<p>Use the&nbsp;<code class="w3-codespan">height</code>&nbsp;and&nbsp;<code class="w3-codespan">width</code>&nbsp;attributes to specify the size of the iframe.</p>
+<p>The height and width are specified in pixels by default:</p>
 
+</br>
 
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<iframe src="demo_iframe.html" height="200" width="300"></iframe>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/63.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
+<p>Or you can use CSS to set the height and width of the iframe:</p>
+</br>
 
-
-
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<iframe src="demo_iframe.html" style="height:200px;width:300px;"></iframe>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/64.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
