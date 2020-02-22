@@ -480,6 +480,7 @@
 <li class="toclevel-2 tocsection-42"><a href="#HTML Link Colors"><span class="toctext">HTML Link Colors</span></a></li>
 <li class="toclevel-2 tocsection-43"><a href="#HTML Symbols"><span class="toctext">HTML Symbols</span></a></li>
 <li class="toclevel-2 tocsection-44"><a href="#HTML Video"><span class="toctext">HTML Video</span></a></li>
+<li class="toclevel-2 tocsection-45"><a href="#HTML Audio"><span class="toctext">HTML Audio</span></a></li>
 <ul>
 
 
@@ -4222,4 +4223,35 @@ Try it Yourself &raquo; </a></div>
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/57.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
+
+<h2 id="HTML Audio">HTML&nbsp;<span class="color_h1">Audio</span></h2>
+<p><span class="color_h1">The HTML&nbsp;<code class="w3-codespan">&lt;audio&gt;</code>&nbsp;element specifies a standard way to embed audio in a web page.</span></p>
+<h2>The HTML &lt;audio&gt; Element</h2>
+<p>To play an audio file in HTML, use the&nbsp;<code class="w3-codespan">&lt;audio&gt;</code>&nbsp;element:</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<audio controls>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp3" type="audio/mpeg">
+</audio>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/58.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+<p>The&nbsp;<code class="w3-codespan">controls</code>&nbsp;attribute adds audio controls, like play, pause, and volume.</p>
+<p>The&nbsp;<code class="w3-codespan">&lt;source&gt;</code>&nbsp;element allows you to specify alternative audio files which the browser may choose from. The browser will use the first recognized format.</p>
+
+
+
 
