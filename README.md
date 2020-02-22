@@ -2347,13 +2347,13 @@ Try it Yourself &raquo; </a></div>
 <head>
 <style>
 a { 
-background-color: #f44336;
+text-decoration: none;
 color: blue;
 }  
 a:hover {
 color: red;
 background-color: yellow;
-text-decoration: none;
+text-decoration: underline;
 }
 </style>
 </head>
