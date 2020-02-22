@@ -1967,5 +1967,133 @@ h1 {
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2>CSS Border</h2>
+<p>The CSS&nbsp;<code class="w3-codespan">border</code>&nbsp;property defines a border around an HTML element:</p>
+</br>
 
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p {
+  border: 1px solid powderblue;
+}
+</style>
+</head>
+<body>
+<p>This is a paragraph.</p>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/44.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+<h2>CSS Padding</h2>
+<p>The CSS&nbsp;<code class="w3-codespan">padding</code>&nbsp;property defines a padding (space) between the text and the border:</p>
+</br>
 
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p {
+  border: 1px solid powderblue;
+  padding: 30px;
+}
+</style>
+</head>
+<body>
+<p>This is a paragraph.</p>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/45.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+<h2>CSS Margin</h2>
+<p>The CSS&nbsp;<code class="w3-codespan">margin</code>&nbsp;property defines a margin (space) outside the border:</p>
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p {
+  border: 1px solid powderblue;
+margin: 50px;
+}
+</style>
+</head>
+<body>
+<p>This is a paragraph.</p>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/46.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+<h2>The id Attribute</h2>
+<p>To define a specific style for one special element, add an&nbsp;<code class="w3-codespan">id</code>&nbsp;attribute to the element:</p>
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#p01 {
+  color: blue;
+}
+</style>
+</head>
+<body>
+<p>This is a paragraph.</p>
+<p id="p01">I am different.</p>  
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/47.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+<h2>The class Attribute</h2>
+<p>To define a style for special types of elements, add a&nbsp;<code class="w3-codespan">class</code>&nbsp;attribute to the element:</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.error {
+  color: red;
+}
+</style>
+</head>
+<body>
+<p>This is a paragraph.</p>
+<p class="error">I am different.</p>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/48.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
