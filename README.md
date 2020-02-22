@@ -486,7 +486,8 @@
 <li class="toclevel-2 tocsection-48"><a href="#HTML Iframes"><span class="toctext">HTML Iframes</span></a></li>
 <li class="toclevel-2 tocsection-49"><a href="#HTML Computer Code Elements"><span class="toctext">HTML Computer Code Elements</span></a></li>
 <li class="toclevel-2 tocsection-50"><a href="#HTML Forms"><span class="toctext">HTML Forms</span></a></li>
-<li class="toclevel-2 tocsection-50"><a href="#HTML Tables"><span class="toctext">HTML Tables</span></a></li>
+<li class="toclevel-2 tocsection-51"><a href="#HTML Tables"><span class="toctext">HTML Tables</span></a></li>
+<li class="toclevel-2 tocsection-52"><a href="#HTML meta Tag"><span class="toctext"> HTML &lt;meta&gt; Tag</span></a></li>
 <ul>
 
 
@@ -4771,9 +4772,37 @@ tr:nth-child(even) {
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2 id="HTML meta Tag">HTML&nbsp;<span class="color_h1">&lt;meta&gt;</span>&nbsp;Tag</h2>
+<ul>
+<li>The &lt;meta&gt; tag provides metadata about the HTML document. Metadata will not be displayed on the page, but will be machine parsable.</li>
+<li>Meta elements are typically used to specify page description, keywords, author of the document, last modified, and other metadata.</li>
+<li>The metadata can be used by browsers (how to display content or reload page), search engines (keywords), or other web services.</li>
+</ul>
 
 
+</br>
 
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Free Web tutorials">
+  <meta name="keywords" content="HTML,CSS,XML,JavaScript">
+  <meta name="author" content="John Doe">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<p>All meta information goes in the head section...</p>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/74.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
