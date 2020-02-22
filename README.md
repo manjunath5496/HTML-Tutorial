@@ -472,6 +472,7 @@
 <li class="toclevel-2 tocsection-35"><a href="#HTML Text Formatting"><span class="toctext"> HTML Text Formatting</span></a></li>
 <li class="toclevel-2 tocsection-36"><a href="#Quotation"><span class="toctext"> HTML Quotation and Citation Elements</span></a></li>
 <li class="toclevel-2 tocsection-37"><a href="#HTML Comments"><span class="toctext"> HTML Comments</span></a></li>
+<li class="toclevel-2 tocsection-37"><a href="#HTML Colors"><span class="toctext">HTML Colors</span></a></li>
 <ul>
 
 
@@ -1165,9 +1166,46 @@ Try it Yourself &raquo; </a></div>
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/35.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
+<h2 id="HTML Colors">HTML&nbsp;<span class="color_h1">Colors</span></h2>
+<p class="intro">HTML colors are specified using predefined color names, or RGB, HEX, HSL, RGBA, HSLA values.</p>
+<h2>Background Color</h2>
+</br>
 
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
+<p style="background-color:Tomato;">Lorem ipsum...</p>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/36.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
+<h2>Text Color</h2>
+</br>
 
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="color:Tomato;">Hello World</h1>
+<p style="color:DodgerBlue;">Lorem ipsum...</p>
+<p style="color:MediumSeaGreen;">Ut wisi enim...</p>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/37.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
