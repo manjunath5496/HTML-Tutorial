@@ -2346,16 +2346,10 @@ Try it Yourself &raquo; </a></div>
 <html>
 <head>
 <style>
-a:link {
-  color: green;
-  background-color: transparent;
-  text-decoration: none;
-}
-
 a:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
+color: red;
+background-color: yellow;
+text-decoration: underline;
 }
 </style>
 </head>
