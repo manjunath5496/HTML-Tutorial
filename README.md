@@ -1909,7 +1909,32 @@ p  {color: red;}
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2>External CSS</h2>
+<p>An external style sheet is used to define the style for many HTML pages.</p>
+<p><strong>With an external style sheet, you can change the look of an entire web site, by changing one file!</strong></p>
+<p>To use an external style sheet, add a link to it in the&nbsp;<code class="w3-codespan">&lt;head&gt;</code>&nbsp;section of the HTML page:</p>
 
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/42.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
