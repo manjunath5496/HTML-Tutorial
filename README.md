@@ -474,6 +474,7 @@
 <li class="toclevel-2 tocsection-37"><a href="#HTML Comments"><span class="toctext"> HTML Comments</span></a></li>
 <li class="toclevel-2 tocsection-37"><a href="#HTML Colors"><span class="toctext">HTML Colors</span></a></li>
 <li class="toclevel-2 tocsection-38"><a href="#HTML CSS"><span class="toctext">HTML CSS</span></a></li>
+<li class="toclevel-2 tocsection-39"><a href="#The target Attribute"><span class="toctext">HTML Links - The target Attribute</span></a></li>
 <ul>
 
 
@@ -2097,3 +2098,23 @@ p.error {
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/48.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
+
+<h2 id ="The target Attribute">HTML Links - The target Attribute</h2>
+<p>The&nbsp;<code class="w3-codespan">target</code>&nbsp;attribute specifies where to open the linked document.</p>
+<p>The&nbsp;<code class="w3-codespan">target</code>&nbsp;attribute can have one of the following values:</p>
+<ul>
+<li><code class="w3-codespan">_blank</code>&nbsp;- Opens the linked document in a new window or tab</li>
+<li><code class="w3-codespan">_self</code>&nbsp;- Opens the linked document in the same window/tab as it was clicked (this is default)</li>
+<li><code class="w3-codespan">_parent</code>&nbsp;- Opens the linked document in the parent frame</li>
+<li><code class="w3-codespan">_top</code>&nbsp;- Opens the linked document in the full body of the window</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
