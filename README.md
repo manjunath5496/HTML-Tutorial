@@ -476,7 +476,8 @@
 <li class="toclevel-2 tocsection-38"><a href="#HTML CSS"><span class="toctext">HTML CSS</span></a></li>
 <li class="toclevel-2 tocsection-39"><a href="#The target Attribute"><span class="toctext">HTML Links - The target Attribute</span></a></li>
 <li class="toclevel-2 tocsection-40"><a href="#HTML JavaScript"><span class="toctext">HTML JavaScript</span></a></li>
-<li class="toclevel-2 tocsection-40"><a href="#HTML Link Bookmarks"><span class="toctext">HTML Link Bookmarks</span></a></li>
+<li class="toclevel-2 tocsection-41"><a href="#HTML Link Bookmarks"><span class="toctext">HTML Link Bookmarks</span></a></li>
+<li class="toclevel-2 tocsection-42"><a href="#HTML Link Colors"><span class="toctext">HTML Link Colors</span></a></li>
 <ul>
 
 
@@ -2333,3 +2334,50 @@ document.getElementById("demo").innerHTML = "Hello JavaScript!";
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/53.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
+<h2 id="HTML Link Colors"> HTML Link Colors</h2>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+</head>
+<body>
+
+<a href="https://www.google.com/" target="_blank">GOOGLE Images</a> 
+
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/54.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
+
