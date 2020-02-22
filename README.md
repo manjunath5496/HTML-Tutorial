@@ -4389,3 +4389,45 @@ Try it Yourself &raquo; </a></div>
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/64.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
+
+<p>To remove the border, add the&nbsp;<code class="w3-codespan">style</code>&nbsp;attribute and use the CSS&nbsp;<code class="w3-codespan">border</code>&nbsp;property:</p>
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<iframe src="demo_iframe.html" style="border:none;"></iframe>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/65.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+<p>With CSS, you can also change the size, style and color of the iframe's border:</p>
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<iframe src="demo_iframe.html" style="border:2px solid red;"></iframe>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/66.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
+
+
+
+
+
