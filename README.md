@@ -481,6 +481,7 @@
 <li class="toclevel-2 tocsection-43"><a href="#HTML Symbols"><span class="toctext">HTML Symbols</span></a></li>
 <li class="toclevel-2 tocsection-44"><a href="#HTML Video"><span class="toctext">HTML Video</span></a></li>
 <li class="toclevel-2 tocsection-45"><a href="#HTML Audio"><span class="toctext">HTML Audio</span></a></li>
+<li class="toclevel-2 tocsection-46"><a href="#HTML Canvas"><span class="toctext">HTML Canvas</span></a></li>
 <ul>
 
 
@@ -4280,4 +4281,33 @@ src="https://www.youtube.com/embed/tgbNymZ7vqY">
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/59.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
+<h2 id="HTML Canvas">HTML&nbsp;<span class="color_h1">Canvas</span></h2>
+<p><span class="color_h1">The HTML&nbsp;<code class="w3-codespan">&lt;canvas&gt;</code>&nbsp;element is used to draw graphics on a web page.</span></p>
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;">
+</canvas>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/60.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
+
+
+
+
+
+
+
+
 
