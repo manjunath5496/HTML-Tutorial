@@ -2110,11 +2110,44 @@ Try it Yourself &raquo; </a></div>
 </ul>
 
 
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<a href="https://www.google.com/" target="_blank">Visit GOOGLE!</a>
+<a href="https://www.amazon.com/" target="_top">Visit Amazon!</a>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/49.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+<h2>HTML Links - Image as a Link</h2>
+<p>It is common to use images as links:</p>
 
 
+</br>
 
-
-
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<a href="https://en.wikipedia.org/wiki/Alan_Turing" target="_blank"><img src="Alan-Turing.jpg" alt="Alan Turing" style="width:100px;height:100px;border:0;"></a>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/50.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
