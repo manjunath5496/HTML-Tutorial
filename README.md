@@ -2150,5 +2150,41 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2>Button as a Link</h2>
+<p>To use an HTML button as a link, you have to add some JavaScript code.</p>
+<p>JavaScript allows you to specify what happens at certain events, such as a click of a button:</p>
 
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<button onclick="document.location = 'https://www.google.com/'">GOOGLE</button>
+</body>
+</html>
+```
+</div>
+</br>
+<h2>Link Titles</h2>
+<p>The&nbsp;<code class="w3-codespan">title</code>&nbsp;attribute specifies extra information about an element. The information is most often shown as a tooltip text when the mouse moves over the element.</p>
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<a href="https://www.google.com" title="Go to GOOGLE.com" target="_blank">Visit GOOGLE</a>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/51.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
