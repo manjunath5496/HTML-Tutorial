@@ -2237,8 +2237,7 @@ document.getElementById("demo").innerHTML = "Hello JavaScript!";
 </body>
 </html>
 ```
-<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/53.html" target="_blank">
-Try it Yourself &raquo; </a></div>
+</div>
 </br>
 
 
