@@ -4588,7 +4588,27 @@ form elements
 <h2>Text Fields</h2>
 <p><code class="w3-codespan">&lt;input type="text"&gt;</code>&nbsp;defines a single-line input field for&nbsp;<strong>text input</strong>.</p>
 
+</br>
 
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname">
+</form>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/71.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
