@@ -4610,6 +4610,9 @@ form elements
 Try it Yourself &raquo; </a></div>
 </br>
 
-
+<ul>
+<li>The&nbsp;<code class="w3-codespan">&lt;label&gt;</code>&nbsp;tag defines a label for many form elements.</li>
+<li>The&nbsp;<code class="w3-codespan">for</code>&nbsp;attribute of the &lt;label&gt; tag should be equal to the&nbsp;<code class="w3-codespan">id</code>&nbsp;attribute of the &lt;input&gt; element to bind them together.</li>
+</ul>
 
 
