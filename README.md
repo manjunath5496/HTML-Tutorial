@@ -4584,3 +4584,12 @@ form elements
 </tr>
 </tbody>
 </table>
+</br>
+<h2>Text Fields</h2>
+<p><code class="w3-codespan">&lt;input type="text"&gt;</code>&nbsp;defines a single-line input field for&nbsp;<strong>text input</strong>.</p>
+
+
+
+
+
+
