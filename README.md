@@ -484,6 +484,7 @@
 <li class="toclevel-2 tocsection-46"><a href="#HTML Canvas"><span class="toctext">HTML Canvas</span></a></li>
 <li class="toclevel-2 tocsection-47"><a href="#HTML SVG"><span class="toctext">HTML SVG</span></a></li>
 <li class="toclevel-2 tocsection-48"><a href="#HTML Iframes"><span class="toctext">HTML Iframes</span></a></li>
+<li class="toclevel-2 tocsection-49"><a href="#HTML Computer Code Elements"><span class="toctext">HTML Computer Code Elements</span></a></li>
 <ul>
 
 
