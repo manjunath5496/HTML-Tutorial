@@ -2394,7 +2394,7 @@ background-color: green;
 </style>
 </head>
 <body>
-<a href="https://www.google.com" target="_blank">GOOGLE </a>
+<a href="https://www.google.com" target="_blank"> GOOGLE </a>
 </body>
 </html>
 ```
