@@ -2404,7 +2404,11 @@ Try it Yourself &raquo; </a></div>
 </br>
 
 <h2 id="HTML Symbols">HTML Symbols </h2>
-
+<ul>
+<li><a href="https://manjunath5496.github.io/html/code.html">Character Entity Reference Chart</a></li>
+<li>HTML Character Set&nbsp;and&nbsp;Entity References (<a href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/pdf1.pdf">PDF</a>)</li>
+</ul>
+</br>
 <div id="code22" style="font-family: Corbel;">
 <h2>Special HTML codes</h2>
 <table class="dtable">
