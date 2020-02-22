@@ -4645,3 +4645,45 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2>The Submit Button</h2>
+<p><code class="w3-codespan">&lt;input type="submit"&gt;</code>&nbsp;defines a button for&nbsp;<strong>submitting</strong>&nbsp;the form data to a&nbsp;<strong>form-handler</strong>.</p>
+<p>The form-handler is typically a page on the server with a script for processing input data.</p>
+<p>The form-handler is specified in the form's&nbsp;<strong>action</strong>&nbsp;attribute.</p>
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <input type="submit" value="Submit">
+</form>
+</body>
+</html>
+```
+</div>
+</br>
+<h2>The Action Attribute</h2>
+<p>The&nbsp;<code class="w3-codespan">action</code>&nbsp;attribute defines the action to be performed when the form is submitted.</p>
+<p>Usually, the form data is sent to a page on the server when the user clicks on the submit button.</p>
+<p>In the example above, the form data is sent to a page on the server called "/action_page.php". This page contains a server-side script that handles the form data.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
