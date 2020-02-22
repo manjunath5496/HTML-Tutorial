@@ -4774,7 +4774,7 @@ Try it Yourself &raquo; </a></div>
 
 <h2 id="HTML meta Tag">HTML&nbsp;<span class="color_h1">&lt;meta&gt;</span>&nbsp;Tag</h2>
 <ul>
-<li>The &lt;meta&gt; tag provides metadata about the HTML document. Metadata will not be displayed on the page, but will be machine parsable.</li>
+  <li>The <code>&lt;meta&gt;</code> tag provides metadata about the HTML document. Metadata will not be displayed on the page, but will be machine parsable.</li>
 <li>Meta elements are typically used to specify page description, keywords, author of the document, last modified, and other metadata.</li>
 <li>The metadata can be used by browsers (how to display content or reload page), search engines (keywords), or other web services.</li>
 </ul>
