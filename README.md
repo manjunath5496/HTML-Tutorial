@@ -482,6 +482,7 @@
 <li class="toclevel-2 tocsection-44"><a href="#HTML Video"><span class="toctext">HTML Video</span></a></li>
 <li class="toclevel-2 tocsection-45"><a href="#HTML Audio"><span class="toctext">HTML Audio</span></a></li>
 <li class="toclevel-2 tocsection-46"><a href="#HTML Canvas"><span class="toctext">HTML Canvas</span></a></li>
+<li class="toclevel-2 tocsection-47"><a href="#HTML SVG"><span class="toctext">HTML SVG</span></a></li>
 <ul>
 
 
@@ -4301,7 +4302,34 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2 id="HTML SVG">HTML&nbsp;<span class="color_h1">SVG</span></h2>
+<h2>What is SVG?</h2>
+<ul>
+<li>SVG stands for Scalable Vector Graphics</li>
+<li>SVG is used to define graphics for the Web</li>
+<li>SVG is a W3C recommendation</li>
+</ul>
+</br>
+<h2>The HTML &lt;svg&gt; Element</h2>
+<p>The HTML&nbsp;<code class="w3-codespan">&lt;svg&gt;</code>&nbsp;element is a container for SVG graphics.</p>
+</br>
 
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<svg width="100" height="100">
+<circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+</svg>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/61.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
