@@ -4679,7 +4679,7 @@ Try it Yourself &raquo; </a></div>
 
 <h2 id="HTML Tables">HTML&nbsp;<span class="color_h1">Tables</span></h2>
 <p>An HTML table is defined with the&nbsp;<code class="w3-codespan">&lt;table&gt;</code>&nbsp;tag.</p>
-<p>Each table row is defined with the&nbsp;<code class="w3-codespan">&lt;tr&gt;</code>&nbsp;tag. A table header is defined with the&nbsp;<code class="w3-codespan">&lt;th&gt;</code>&nbsp;tag. By default, table headings are bold and centered. A table data/cell is defined with the&nbsp;<code class="w3-codespan">&lt;td&gt;</code>&nbsp;tag.</p>
+<p>Each table row is defined with the&nbsp;<code class="w3-codespan">&lt;tr&gt;</code>&nbsp;tag. A table header is defined with the&nbsp;<code class="w3-codespan">&lt;th&gt;</code>&nbsp;tag. A table data/cell is defined with the&nbsp;<code class="w3-codespan">&lt;td&gt;</code>&nbsp;tag.</p>
 
 </br>
 
