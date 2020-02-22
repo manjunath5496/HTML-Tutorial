@@ -4673,7 +4673,7 @@ Try it Yourself &raquo; </a></div>
 <h2>The Action Attribute</h2>
 <p>The&nbsp;<code class="w3-codespan">action</code>&nbsp;attribute defines the action to be performed when the form is submitted.</p>
 <p>Usually, the form data is sent to a page on the server when the user clicks on the submit button.</p>
-<p>In the example above, the form data is sent to a page on the server called "/action_page.php". This page contains a server-side script that handles the form data.</p>
+<p>In the example above, the form data is sent to a page on the server called <code class="w3-codespan">/action_page.php</code>. This page contains a server-side script that handles the form data.</p>
 
 
 
