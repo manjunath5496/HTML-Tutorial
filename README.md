@@ -2377,20 +2377,21 @@ Try it Yourself &raquo; </a></div>
 <html>
 <head>
 <style>
+a { 
+background-color: #f44336;
+color: white;
+padding: 15px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+}
 a:hover {
-  background-color: #f44336;
-  color: white;
-  padding: 15px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
+background-color: green;
 }
 </style>
 </head>
 <body>
-
-<a href="https://www.google.com" target="_blank">GOOGLE </a> 
-
+<a href="https://www.google.com" target="_blank">GOOGLE </a>
 </body>
 </html>
 ```
