@@ -479,6 +479,7 @@
 <li class="toclevel-2 tocsection-41"><a href="#HTML Link Bookmarks"><span class="toctext">HTML Link Bookmarks</span></a></li>
 <li class="toclevel-2 tocsection-42"><a href="#HTML Link Colors"><span class="toctext">HTML Link Colors</span></a></li>
 <li class="toclevel-2 tocsection-43"><a href="#HTML Symbols"><span class="toctext">HTML Symbols</span></a></li>
+<li class="toclevel-2 tocsection-44"><a href="#HTML Video"><span class="toctext">HTML Video</span></a></li>
 <ul>
 
 
@@ -4171,5 +4172,54 @@ Try it Yourself &raquo; </a></div>
 </table>
 </div>
 
+</br>
 
+<h2 id="HTML Video">HTML&nbsp;<span class="color_h1">Video</span></h2>
+<p><span class="color_h1">The HTML&nbsp;<code class="w3-codespan">&lt;video&gt;</code>&nbsp;element specifies a standard way to embed a video in a web page.</span></p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<video width="400" controls>
+  <source src="mov_bbb.mp4" type="video/mp4">
+  <source src="mov_bbb.ogg" type="video/ogg">
+</video>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/56.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+<p>The&nbsp;<code class="w3-codespan">controls</code>&nbsp;attribute adds video controls, like play, pause, and volume.</p>
+<p>It is a good idea to always include&nbsp;<code class="w3-codespan">width</code>&nbsp;and&nbsp;<code class="w3-codespan">height</code>&nbsp;attributes. If height and width are not set, the page might flicker while the video loads.</p>
+<p>The&nbsp;<code class="w3-codespan">&lt;source&gt;</code>&nbsp;element allows you to specify alternative video files which the browser may choose from. The browser will use the first recognized format.</p>
+</br>
+<p>To start a video automatically use the&nbsp;<code class="w3-codespan">autoplay</code>&nbsp;attribute:</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<video width="320" height="240" autoplay>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+</video>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/57.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
