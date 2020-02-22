@@ -4252,6 +4252,32 @@ Try it Yourself &raquo; </a></div>
 <p>The&nbsp;<code class="w3-codespan">controls</code>&nbsp;attribute adds audio controls, like play, pause, and volume.</p>
 <p>The&nbsp;<code class="w3-codespan">&lt;source&gt;</code>&nbsp;element allows you to specify alternative audio files which the browser may choose from. The browser will use the first recognized format.</p>
 
+</br>
+<h2>HTML&nbsp;<span class="color_h1">YouTube Videos</span></h2>
+<p>To play your video on a web page, do the following:</p>
+<ul>
+<li>Upload the video to YouTube</li>
+<li>Take a note of the video id</li>
+<li>Define an &lt;iframe&gt; element in your web page</li>
+<li>Let the src attribute point to the video URL</li>
+<li>Use the width and height attributes to specify the dimension of the player</li>
+</ul>
+</br>
 
-
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/59.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
