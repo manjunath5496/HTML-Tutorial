@@ -1936,6 +1936,36 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
+<h2>CSS Fonts</h2>
+<p>The CSS&nbsp;<code class="w3-codespan">color</code>&nbsp;property defines the text color to be used.</p>
+<p>The CSS&nbsp;<code class="w3-codespan">font-family</code>&nbsp;property defines the font to be used.</p>
+<p>The CSS&nbsp;<code class="w3-codespan">font-size&nbsp;</code>property defines the text size to be used.</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+}
+</style>
+</head>
+<body>
+<h1>This is a heading</h1>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/43.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
