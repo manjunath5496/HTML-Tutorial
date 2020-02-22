@@ -2381,7 +2381,6 @@ a {
 background-color: #f44336;
 color: white;
 padding: 15px 25px;
-text-align: center;
 text-decoration: none;
 display: inline-block;
 }
