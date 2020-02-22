@@ -473,6 +473,7 @@
 <li class="toclevel-2 tocsection-36"><a href="#Quotation"><span class="toctext"> HTML Quotation and Citation Elements</span></a></li>
 <li class="toclevel-2 tocsection-37"><a href="#HTML Comments"><span class="toctext"> HTML Comments</span></a></li>
 <li class="toclevel-2 tocsection-37"><a href="#HTML Colors"><span class="toctext">HTML Colors</span></a></li>
+<li class="toclevel-2 tocsection-38"><a href="#HTML CSS"><span class="toctext">HTML CSS</span></a></li>
 <ul>
 
 
@@ -1854,6 +1855,61 @@ Try it Yourself &raquo; </a></div>
 </table>
 
 </br>
+
+
+<h2 id ="HTML CSS">HTML&nbsp;<span class="color_h1">CSS</span></h2>
+<h2>Inline CSS</h2>
+<p>An inline CSS is used to apply a unique style to a single HTML element.</p>
+<p>An inline CSS uses the style attribute of an HTML element.</p>
+<p>This example sets the text color of the&nbsp;<code class="w3-codespan">&lt;h1&gt;</code>&nbsp;element to blue:</p>
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="color:blue;">This is a Blue Heading</h1>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/40.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+<h2>Internal CSS</h2>
+<p>An internal CSS is used to define a style for a single HTML page.</p>
+<p>An internal CSS is defined in the&nbsp;<code class="w3-codespan">&lt;head&gt;</code>&nbsp;section of an HTML page, within a&nbsp;<code class="w3-codespan">&lt;style&gt;</code>&nbsp;element:</p>
+
+
+</br>
+
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {color: blue;}
+p  {color: red;}
+</style>
+</head>
+<body>
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/41.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
+
+
 
 
 
