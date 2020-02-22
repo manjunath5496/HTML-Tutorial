@@ -486,6 +486,7 @@
 <li class="toclevel-2 tocsection-48"><a href="#HTML Iframes"><span class="toctext">HTML Iframes</span></a></li>
 <li class="toclevel-2 tocsection-49"><a href="#HTML Computer Code Elements"><span class="toctext">HTML Computer Code Elements</span></a></li>
 <li class="toclevel-2 tocsection-50"><a href="#HTML Forms"><span class="toctext">HTML Forms</span></a></li>
+<li class="toclevel-2 tocsection-50"><a href="#HTML Tables"><span class="toctext">HTML Tables</span></a></li>
 <ul>
 
 
@@ -4674,9 +4675,77 @@ Try it Yourself &raquo; </a></div>
 <p>The&nbsp;<code class="w3-codespan">action</code>&nbsp;attribute defines the action to be performed when the form is submitted.</p>
 <p>Usually, the form data is sent to a page on the server when the user clicks on the submit button.</p>
 <p>In the example above, the form data is sent to a page on the server called <code class="w3-codespan">/action_page.php</code>. This page contains a server-side script that handles the form data.</p>
+</br>
 
+<h2 id="HTML Tables">HTML&nbsp;<span class="color_h1">Tables</span></h2>
+<p>An HTML table is defined with the&nbsp;<code class="w3-codespan">&lt;table&gt;</code>&nbsp;tag.</p>
+<p>Each table row is defined with the&nbsp;<code class="w3-codespan">&lt;tr&gt;</code>&nbsp;tag. A table header is defined with the&nbsp;<code class="w3-codespan">&lt;th&gt;</code>&nbsp;tag. By default, table headings are bold and centered. A table data/cell is defined with the&nbsp;<code class="w3-codespan">&lt;td&gt;</code>&nbsp;tag.</p>
 
+</br>
 
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>HTML Table</h2>
+
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+  <tr>
+    <td>Ernst Handel</td>
+    <td>Roland Mendel</td>
+    <td>Austria</td>
+  </tr>
+  <tr>
+    <td>Island Trading</td>
+    <td>Helen Bennett</td>
+    <td>UK</td>
+  </tr>
+
+</table>
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/73.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
