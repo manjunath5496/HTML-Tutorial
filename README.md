@@ -2213,9 +2213,33 @@ Try it Yourself &raquo; </a></div>
 </br>
 
 
+<h2>The HTML &lt;script&gt; Tag</h2>
+<p>The&nbsp;<code class="w3-codespan">&lt;script&gt;</code>&nbsp;tag is used to define a client-side script (JavaScript).</p>
+<p>The&nbsp;<code class="w3-codespan">&lt;script&gt;</code>&nbsp;element either contains script statements, or it points to an external script file through the&nbsp;<code class="w3-codespan">src</code>&nbsp;attribute.</p>
+<p>Common uses for JavaScript are image manipulation, form validation, and dynamic changes of content.</p>
+<p>To select an HTML element, JavaScript most often uses the&nbsp;<code class="w3-codespan">document.getElementById()</code>&nbsp;method.</p>
+<p>This JavaScript example writes "Hello JavaScript!" into an HTML element with id="demo":</p>
 
 
+</br>
 
+<div class="w3-example">
+<h3>Example</h3>
+  
+```HTML language
+<!DOCTYPE html>
+<html>
+<body>
+<p id="demo"></p>
+<script>
+document.getElementById("demo").innerHTML = "Hello JavaScript!";
+</script> 
+</body>
+</html>
+```
+<a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/53.html" target="_blank">
+Try it Yourself &raquo; </a></div>
+</br>
 
 
 
