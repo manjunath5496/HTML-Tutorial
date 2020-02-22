@@ -2346,6 +2346,10 @@ Try it Yourself &raquo; </a></div>
 <html>
 <head>
 <style>
+a { 
+background-color: #f44336;
+color: blue;
+}  
 a:hover {
 color: red;
 background-color: yellow;
@@ -2355,7 +2359,7 @@ text-decoration: none;
 </head>
 <body>
 
-<a href="https://www.google.com" target="_blank">GOOGLE </a> 
+<a href="https://www.google.com" target="_blank"> GOOGLE </a> 
 
 </body>
 </html>
