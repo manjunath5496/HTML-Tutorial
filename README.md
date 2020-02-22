@@ -4560,4 +4560,27 @@ form elements
 ```
 </div>
 </br>
-
+<h2>The &lt;input&gt; Element</h2>
+<p>The&nbsp;<code class="w3-codespan">&lt;input&gt;</code>&nbsp;element is the most important form element.</p>
+<p>The&nbsp;<code class="w3-codespan">&lt;input&gt;</code>&nbsp;element is displayed in several ways, depending on the&nbsp;<strong>type</strong>&nbsp;attribute.</p>
+<p>Here are some examples:</p>
+<table class="w3-table-all">
+<tbody>
+<tr>
+<th>Type</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>&lt;input type="text"&gt;</td>
+<td>Defines a single-line text input field</td>
+</tr>
+<tr>
+<td>&lt;input type="radio"&gt;</td>
+<td>Defines a radio button (for selecting one of many choices)</td>
+</tr>
+<tr>
+<td>&lt;input type="submit"&gt;</td>
+<td>Defines a submit button (for submitting the form)</td>
+</tr>
+</tbody>
+</table>
