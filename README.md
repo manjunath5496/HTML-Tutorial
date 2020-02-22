@@ -2141,7 +2141,8 @@ Try it Yourself &raquo; </a></div>
 <!DOCTYPE html>
 <html>
 <body>
-<a href="https://en.wikipedia.org/wiki/Alan_Turing" target="_blank"><img src="Alan-Turing.jpg" alt="Alan Turing" style="width:100px;height:100px;border:0;"></a>
+<a href="https://en.wikipedia.org/wiki/Alan_Turing" target="_blank">
+<img src="Alan-Turing.jpg" alt="Alan Turing" style="width:100px;height:100px;border:0;"></a>
 </body>
 </html>
 ```
