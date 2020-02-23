@@ -268,6 +268,36 @@
 </div>
 </div>
 <p>In 1980, physicist&nbsp;<a title="Tim Berners-Lee" href="https://en.wikipedia.org/wiki/Tim_Berners-Lee">Tim Berners-Lee</a>, a contractor at&nbsp;<a title="CERN" href="https://en.wikipedia.org/wiki/CERN">CERN</a>, proposed and prototyped&nbsp;<a title="ENQUIRE" href="https://en.wikipedia.org/wiki/ENQUIRE">ENQUIRE</a>, a system for CERN researchers to use and share documents. In 1989, Berners-Lee wrote a memo proposing an&nbsp;<a title="Internet" href="https://en.wikipedia.org/wiki/Internet">Internet</a>-based&nbsp;<a title="Hypertext" href="https://en.wikipedia.org/wiki/Hypertext">hypertext</a>&nbsp;system.&nbsp;Berners-Lee specified HTML and wrote the browser and server software in late 1990. That year, Berners-Lee and CERN data systems engineer&nbsp;<a title="Robert Cailliau" href="https://en.wikipedia.org/wiki/Robert_Cailliau">Robert Cailliau</a>&nbsp;collaborated on a joint request for funding, but the project was not formally adopted by CERN. In his personal notes&nbsp;from 1990 he listed&nbsp;"some of the many areas in which hypertext is used" and put an encyclopedia first.</p>
+</br>
+
+
+<div class="thumb tright">
+<div class="thumbinner"><a class="image" href="Robert_Cailliau.png"><img class="thumbimage" src="Robert_Cailliau.png" srcset="Robert_Cailliau.png" alt="Photograph of Robert Cailliau in 2019" width="170" height="234" data-file-width="1195" data-file-height="1648" /></a>
+<div class="thumbcaption">
+<div class="magnify">&nbsp;</div>
+<strong><a title="Robert Cailliau" href="https://en.wikipedia.org/wiki/Robert_Cailliau">Robert Cailliau</a>&nbsp; in 2019</strong></div>
+  </br> 
+  
+  <p> <strong>Publications: </strong> </p><hr>
+  
+  <ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(22).pdf" style="text-decoration:none;">Hypertext in the Web &minus; a History</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(23).pdf" style="text-decoration:none;">Wikinews interviews World Wide Web co-inventor Robert Cailliau</a></li>
+
+</ul>
+
+
+</br>
+
+
+
+
+
+
 <p>The first publicly available description of HTML was a document called&nbsp;<a class="external text" href="http://info.cern.ch/hypertext/WWW/MarkUp/Tags.html" rel="nofollow">"HTML Tags"</a>, first mentioned on the Internet by Tim Berners-Lee in late 1991.&nbsp;It describes 18 elements comprising the initial, relatively simple design of HTML. Except for the hyperlink tag, these were strongly influenced by&nbsp;<a title="SGMLguid" href="https://en.wikipedia.org/wiki/SGMLguid">SGMLguid</a>, an in-house&nbsp;<a title="Standard Generalized Markup Language" href="https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language">Standard Generalized Markup Language</a>&nbsp;(SGML)-based documentation format at CERN. Eleven of these elements still exist in HTML 4.</p>
 <p>HTML is a&nbsp;<a title="Markup language" href="https://en.wikipedia.org/wiki/Markup_language">markup language</a>&nbsp;that&nbsp;<a title="Web browser" href="https://en.wikipedia.org/wiki/Web_browser">web browsers</a>&nbsp;use to interpret and&nbsp;<a title="Typesetting" href="https://en.wikipedia.org/wiki/Typesetting">compose</a>&nbsp;text, images, and other material into visual or audible web pages. Default characteristics for every item of HTML markup are defined in the browser, and these characteristics can be altered or enhanced by the web page designer's additional use of&nbsp;<a title="Cascading Style Sheets" href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a>. Many of the text elements are found in the 1988 ISO technical report TR 9537&nbsp;<em>Techniques for using SGML</em>, which in turn covers the features of early text formatting languages such as that used by the&nbsp;<a title="TYPSET and RUNOFF" href="https://en.wikipedia.org/wiki/TYPSET_and_RUNOFF">RUNOFF command</a>&nbsp;developed in the early 1960s for the&nbsp;<a title="Compatible Time-Sharing System" href="https://en.wikipedia.org/wiki/Compatible_Time-Sharing_System">CTSS</a>&nbsp;(Compatible Time-Sharing System) operating system: these formatting commands were derived from the commands used by typesetters to manually format documents. However, the SGML concept of generalized markup is based on elements (nested annotated ranges with attributes) rather than merely print effects, with also the separation of structure and markup; HTML has been progressively moved in this direction with CSS.</p>
 <p>Berners-Lee considered HTML to be an application of SGML. It was formally defined as such by the&nbsp;<a title="Internet Engineering Task Force" href="https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force">Internet Engineering Task Force</a>&nbsp;(IETF) with the mid-1993 publication of the first proposal for an HTML specification, the "Hypertext Markup Language (HTML)" Internet Draft by Berners-Lee and&nbsp;<a title="Dan Connolly (computer scientist)" href="https://en.wikipedia.org/wiki/Dan_Connolly_(computer_scientist)">Dan Connolly</a>, which included an SGML&nbsp;<a title="Document type definition" href="https://en.wikipedia.org/wiki/Document_type_definition">Document type definition</a>&nbsp;to define the grammar.&nbsp;The draft expired after six months, but was notable for its acknowledgment of the&nbsp;<a title="Mosaic (web browser)" href="https://en.wikipedia.org/wiki/Mosaic_(web_browser)">NCSA Mosaic</a>&nbsp;browser's custom tag for embedding in-line images, reflecting the IETF's philosophy of basing standards on successful prototypes. Similarly,&nbsp;<a title="Dave Raggett" href="https://en.wikipedia.org/wiki/Dave_Raggett">Dave Raggett</a>'s competing Internet-Draft, "HTML+ (Hypertext Markup Format)", from late 1993, suggested standardizing already-implemented features like tables and fill-out forms.</p>
