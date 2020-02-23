@@ -106,8 +106,16 @@
 
  <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(12).pdf" style="text-decoration:none;"> Internet Access is a Human Right</a></li>
  
+  <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(13).pdf" style="text-decoration:none;"> A Framework for Web Science</a></li>
  
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(14).pdf" style="text-decoration:none;">Policy Aware Content Reuse on the Web</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(15).pdf" style="text-decoration:none;"> Universal Resource identifiers in WWW - World Wide Web </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(16).pdf" style="text-decoration:none;">Web Architecture: Extensible Languages</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(17).pdf" style="text-decoration:none;"> Hypertext Markup Language (HTML)</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(18).pdf" style="text-decoration:none;"> Web Science: Studying the Internet to Protect Our Future</a></li>
+ 
 </ul>  
   
   </br>
