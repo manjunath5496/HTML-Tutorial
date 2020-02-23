@@ -115,7 +115,10 @@
 
  <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(17).pdf" style="text-decoration:none;"> Hypertext Markup Language (HTML)</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(18).pdf" style="text-decoration:none;"> Web Science: Studying the Internet to Protect Our Future</a></li>
- 
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(19).pdf" style="text-decoration:none;">A Demonstration of the Solid Platform for Social Web Applications</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(20).pdf" style="text-decoration:none;"> Transparent Accountable Data Mining: New Strategies for Privacy Protection</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(21).pdf" style="text-decoration:none;"> The CHI, a new Fastbus Interface and Processor</a></li>
 </ul>  
   
   </br>
