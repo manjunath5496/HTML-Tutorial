@@ -66,6 +66,7 @@
 
 <li><a href="#WYSIWYG_editors"><span class="toctext">WYSIWYG editors</span></a></li>
 <li><a href="#HTML Tutorial"><span class="toctext">HTML Tutorial</span></a></li>
+<li><a href="#Books"><span class="toctext">Books</span></a></li>
 </ul>
 </br>
 
@@ -4803,6 +4804,74 @@ Try it Yourself &raquo; </a></div>
 <a class="w3-btn w3-margin-bottom" href="https://manjunath5496.github.io/html/74.html" target="_blank">
 Try it Yourself &raquo; </a></div>
 </br>
+
+<h2 id="Books">Books:  </h2>
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(1).pdf" style="text-decoration:none;">Head First HTML with CSS and XHTML</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(2).pdf" style="text-decoration:none;">Create Stunning HTML Email That Just Works: Create HTML5 Emails That Look Great and Deliver!</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(3).pdf" style="text-decoration:none;">HTML
+in 10 Simple Steps or Less</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(4).pdf" style="text-decoration:none;">HTML and XHTML Demystified</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(5).pdf" style="text-decoration:none;">Learning Web Design: A Beginner's Guide to (X)HTML, Style Sheets, and Web Graphics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(6).pdf" style="text-decoration:none;">250 HTML and Web Design Secrets</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(7).pdf" style="text-decoration:none;">HTML: A Beginner's Guide</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(8).pdf" style="text-decoration:none;"> HTML: The Complete Reference</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(9).pdf" style="text-decoration:none;">HTML 4 for Dummies</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(10).pdf" style="text-decoration:none;"> HTML and XHTML: The Definitive Guide</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(11).pdf" style="text-decoration:none;">Sams Teach Yourself HTML and XHTML in 24 Hours</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(12).pdf" style="text-decoration:none;">Learn HTML5 by Creating Fun Games</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(13).pdf" style="text-decoration:none;">Html For Kids: Perfect Book For Young Curious Mind</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(14).pdf" style="text-decoration:none;">HTML Manual of Style: A Clear, Concise Reference for Hypertext Markup Language (including HTML5)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(15).pdf" style="text-decoration:none;">Pro HTML5 Programming: Powerful APIs for Richer Internet Application Development</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(16).pdf" style="text-decoration:none;">HTML Mastery: Semantics, Standards, and Styling</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(17).pdf" style="text-decoration:none;"> Hands-on with HTML APIs</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(18).pdf" style="text-decoration:none;"> Simple HTML 5 (Book Version: 1.0)</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(19).pdf" style="text-decoration:none;">Learn HTML and CSS with w3schools</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(20).pdf" style="text-decoration:none;">HTML and XHTML Pocket Reference</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(21).pdf" style="text-decoration:none;">CliffsNotes Creating Web Pages with HTML</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(22).pdf" style="text-decoration:none;">Writing HTML</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(23).pdf" style="text-decoration:none;">HTML Beginners – Basics of Web Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(24).pdf" style="text-decoration:none;">Html: Learn HTML In A DAY! - The Ultimate Crash Course to Learning the Basics of HTML In No Time</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(25).pdf" style="text-decoration:none;">Practical HTML5 Projects</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(26).pdf" style="text-decoration:none;"> HTML, XHTML, and CSS: Your visual blueprint for designing effective Web pages</a></li>
+
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/html(27).pdf" style="text-decoration:none;"> HTML: Comprehensive Concepts and Techniques</a></li>
+
+
+
+
+
+
+
+
+</ul>
+  
+
+
+
+
+
+
 
 
 
