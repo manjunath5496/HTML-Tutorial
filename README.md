@@ -80,7 +80,7 @@
 <strong><a title="Tim Berners-Lee" href="https://en.wikipedia.org/wiki/Tim_Berners-Lee">Tim Berners-Lee</a>&nbsp;in April 2009</strong></div>
   </br> 
   
-  <p> <strong>Publications: </strong> </p>
+  <p> <strong>Publications: </strong> </p><hr>
   
   <ul>
 
