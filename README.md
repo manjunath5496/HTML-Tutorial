@@ -5,6 +5,71 @@
 <p>HTML can embed programs written in a&nbsp;<a title="Scripting language" href="https://en.wikipedia.org/wiki/Scripting_language">scripting language</a>&nbsp;such as&nbsp;<a title="JavaScript" href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a>, which affects the behavior and content of web pages. Inclusion of CSS defines the look and layout of content. The&nbsp;<a title="World Wide Web Consortium" href="https://en.wikipedia.org/wiki/World_Wide_Web_Consortium">World Wide Web Consortium</a>&nbsp;(W3C), former maintainer of the HTML and current maintainer of the CSS standards, has encouraged the use of CSS over explicit presentational HTML since 1997.</p>
 
 </br>
+
+<table class="infobox"><caption>HTML<br /><span class="nowrap">(Hypertext Markup Language)</span></caption>
+<tbody>
+<tr>
+<td colspan="2"><a class="image" href="https://en.wikipedia.org/wiki/File:HTML5_logo_and_wordmark.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png 2x" alt="HTML5 logo and wordmark.svg" width="120" height="120" data-file-width="512" data-file-height="512" /></a>
+<div>The official logo of the latest version,&nbsp;<a title="HTML5" href="https://en.wikipedia.org/wiki/HTML5">HTML5</a>.</div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a title="Filename extension" href="https://en.wikipedia.org/wiki/Filename_extension">Filename extension</a></th>
+<td>
+<div class="plainlist">
+<p><code>.html</code></p>
+<p><code>.htm</code></p>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a title="Media type" href="https://en.wikipedia.org/wiki/Media_type">Internet media&nbsp;type</a></th>
+<td><code>text/html</code></td>
+</tr>
+<tr>
+<th scope="row"><a class="mw-redirect" title="Type code" href="https://en.wikipedia.org/wiki/Type_code">Type code</a></th>
+<td>TEXT</td>
+</tr>
+<tr>
+<th scope="row">Developed&nbsp;by</th>
+<td><a title="WHATWG" href="https://en.wikipedia.org/wiki/WHATWG">WHATWG</a></td>
+</tr>
+<tr>
+<th scope="row">Initial release</th>
+<td>1993<span class="noprint">; 27&nbsp;years ago</span></td>
+</tr>
+<tr>
+<th scope="row">Type of format</th>
+<td><a title="Document file format" href="https://en.wikipedia.org/wiki/Document_file_format">Document file format</a></td>
+</tr>
+<tr>
+<th scope="row">Extended&nbsp;from</th>
+<td><a title="Standard Generalized Markup Language" href="https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language">SGML</a></td>
+</tr>
+<tr>
+<th scope="row">Extended&nbsp;to</th>
+<td><a title="XHTML" href="https://en.wikipedia.org/wiki/XHTML">XHTML</a></td>
+</tr>
+<tr>
+<th scope="row"><a title="International standard" href="https://en.wikipedia.org/wiki/International_standard">Standards</a></th>
+<td><a class="external text" href="https://html.spec.whatwg.org/multipage/" rel="nofollow">HTML Living Standard</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a title="Open format" href="https://en.wikipedia.org/wiki/Open_format">Open format</a></span></th>
+<td>Yes</td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="url"><a class="external text" href="https://whatwg.org/" rel="nofollow">whatwg<wbr />.org</a></span></td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
+
 <div class="toctitle" dir="ltr" lang="en">
 <h2 id="mw-toc-heading">Contents</h2>
 <label class="toctogglelabel" for="toctogglecheckbox"></label></div>
