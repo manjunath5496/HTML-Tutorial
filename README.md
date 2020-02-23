@@ -6,16 +6,16 @@
 
 </br>
 
-<table class="infobox"><caption>HTML<br /><span class="nowrap">(Hypertext Markup Language)</span></caption>
+<table class="infobox" style="width: 261px;">
 <tbody>
 <tr>
-<td colspan="2"><a class="image" href="https://en.wikipedia.org/wiki/File:HTML5_logo_and_wordmark.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png 2x" alt="HTML5 logo and wordmark.svg" width="120" height="120" data-file-width="512" data-file-height="512" /></a>
+<td style="width: 247px;" colspan="2"><a class="image" href="hmt.png"><img src="hmt.png" srcset="hmt.png" width="120" height="120" data-file-width="512" data-file-height="512" /></a>
 <div>The official logo of the latest version,&nbsp;<a title="HTML5" href="https://en.wikipedia.org/wiki/HTML5">HTML5</a>.</div>
 </td>
 </tr>
 <tr>
-<th scope="row"><a title="Filename extension" href="https://en.wikipedia.org/wiki/Filename_extension">Filename extension</a></th>
-<td>
+<th style="width: 125px;" scope="row"><a title="Filename extension" href="https://en.wikipedia.org/wiki/Filename_extension">Filename extension</a></th>
+<td style="width: 122px;">
 <div class="plainlist">
 <p><code>.html</code></p>
 <p><code>.htm</code></p>
@@ -23,44 +23,44 @@
 </td>
 </tr>
 <tr>
-<th scope="row"><a title="Media type" href="https://en.wikipedia.org/wiki/Media_type">Internet media&nbsp;type</a></th>
-<td><code>text/html</code></td>
+<th style="width: 125px;" scope="row"><a title="Media type" href="https://en.wikipedia.org/wiki/Media_type">Internet media&nbsp;type</a></th>
+<td style="width: 122px;"><code>text/html</code></td>
 </tr>
 <tr>
-<th scope="row"><a class="mw-redirect" title="Type code" href="https://en.wikipedia.org/wiki/Type_code">Type code</a></th>
-<td>TEXT</td>
+<th style="width: 125px;" scope="row"><a class="mw-redirect" title="Type code" href="https://en.wikipedia.org/wiki/Type_code">Type code</a></th>
+<td style="width: 122px;">TEXT</td>
 </tr>
 <tr>
-<th scope="row">Developed&nbsp;by</th>
-<td><a title="WHATWG" href="https://en.wikipedia.org/wiki/WHATWG">WHATWG</a></td>
+<th style="width: 125px;" scope="row">Developed&nbsp;by</th>
+<td style="width: 122px;"><a title="WHATWG" href="https://en.wikipedia.org/wiki/WHATWG">WHATWG</a></td>
 </tr>
 <tr>
-<th scope="row">Initial release</th>
-<td>1993<span class="noprint">; 27&nbsp;years ago</span></td>
+<th style="width: 125px;" scope="row">Initial release</th>
+<td style="width: 122px;">1993<span class="noprint">; 27&nbsp;years ago</span></td>
 </tr>
 <tr>
-<th scope="row">Type of format</th>
-<td><a title="Document file format" href="https://en.wikipedia.org/wiki/Document_file_format">Document file format</a></td>
+<th style="width: 125px;" scope="row">Type of format</th>
+<td style="width: 122px;"><a title="Document file format" href="https://en.wikipedia.org/wiki/Document_file_format">Document file format</a></td>
 </tr>
 <tr>
-<th scope="row">Extended&nbsp;from</th>
-<td><a title="Standard Generalized Markup Language" href="https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language">SGML</a></td>
+<th style="width: 125px;" scope="row">Extended&nbsp;from</th>
+<td style="width: 122px;"><a title="Standard Generalized Markup Language" href="https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language">SGML</a></td>
 </tr>
 <tr>
-<th scope="row">Extended&nbsp;to</th>
-<td><a title="XHTML" href="https://en.wikipedia.org/wiki/XHTML">XHTML</a></td>
+<th style="width: 125px;" scope="row">Extended&nbsp;to</th>
+<td style="width: 122px;"><a title="XHTML" href="https://en.wikipedia.org/wiki/XHTML">XHTML</a></td>
 </tr>
 <tr>
-<th scope="row"><a title="International standard" href="https://en.wikipedia.org/wiki/International_standard">Standards</a></th>
-<td><a class="external text" href="https://html.spec.whatwg.org/multipage/" rel="nofollow">HTML Living Standard</a></td>
+<th style="width: 125px;" scope="row"><a title="International standard" href="https://en.wikipedia.org/wiki/International_standard">Standards</a></th>
+<td style="width: 122px;"><a class="external text" href="https://html.spec.whatwg.org/multipage/" rel="nofollow">HTML Living Standard</a></td>
 </tr>
 <tr>
-<th scope="row"><span class="nowrap"><a title="Open format" href="https://en.wikipedia.org/wiki/Open_format">Open format</a></span></th>
-<td>Yes</td>
+<th style="width: 125px;" scope="row"><span class="nowrap"><a title="Open format" href="https://en.wikipedia.org/wiki/Open_format">Open format</a></span></th>
+<td style="width: 122px;">Yes</td>
 </tr>
 <tr>
-<th scope="row">Website</th>
-<td><span class="url"><a class="external text" href="https://whatwg.org/" rel="nofollow">whatwg<wbr />.org</a></span></td>
+<th style="width: 125px;" scope="row">Website</th>
+<td style="width: 122px;"><span class="url"><a class="external text" href="https://whatwg.org/" rel="nofollow">whatwg<wbr />.org</a></span></td>
 </tr>
 </tbody>
 </table>
