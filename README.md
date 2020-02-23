@@ -78,6 +78,40 @@
 <div class="thumbcaption">
 <div class="magnify">&nbsp;</div>
 <strong><a title="Tim Berners-Lee" href="https://en.wikipedia.org/wiki/Tim_Berners-Lee">Tim Berners-Lee</a>&nbsp;in April 2009</strong></div>
+  </br> 
+  
+  <p> <strong>Publications: </strong> </p>
+  
+  <ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(1).pdf" style="text-decoration:none;">World-Wide Web: An Information Infrastructure for High-Energy Physics</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(2).pdf" style="text-decoration:none;">Long Live the Web</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(3).pdf" style="text-decoration:none;">The Semantic Web: A new form of Web content that is meaningful to computers will unleash a revolution of new possibilities</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(4).pdf" style="text-decoration:none;">Open letter from Just Net Coalition to Sir Tim Berners-Lee seeking his urgent intervention to stop acceptance of Encrypted Media Extensions as a W3C standard</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(5).pdf" style="text-decoration:none;">Weaving the Web: The Original Design and Ultimate Destiny of the World Wide Web</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(6).pdf" style="text-decoration:none;">The world-wide web</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(7).pdf" style="text-decoration:none;">The CERN host interface</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(8).pdf" style="text-decoration:none;"> Interview with Tim Berners-Lee</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(9).pdf" style="text-decoration:none;">World-Wide Web: The Information Universe</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(10).pdf" style="text-decoration:none;"> Experience with Remote Procedure Call in Data Acquisition and Control</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(11).pdf" style="text-decoration:none;">The VALET-Plus, a VMEbus Based Microcomputer for Physics Applications</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tim(12).pdf" style="text-decoration:none;"> Internet Access is a Human Right</a></li>
+ 
+ 
+
+</ul>  
+  
+  </br>
+  
 <div class="thumbcaption">&nbsp;</div>
 </div>
 </div>
