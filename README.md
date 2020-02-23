@@ -272,7 +272,7 @@
 
 
 <div class="thumb tright">
-<div class="thumbinner"><a class="image" href="Robert_Cailliau.png"><img class="thumbimage" src="Robert_Cailliau.png" srcset="Robert_Cailliau.png" alt="Photograph of Robert Cailliau in 2019" width="170" height="234" data-file-width="1195" data-file-height="1648" /></a>
+<div class="thumbinner"><a class="image" href="Robert_Cailliau.jpg"><img class="thumbimage" src="Robert_Cailliau.jpg" srcset="Robert_Cailliau.jpg" alt="Photograph of Robert Cailliau in 2019" width="170" height="234" data-file-width="1195" data-file-height="1648" /></a>
 <div class="thumbcaption">
 <div class="magnify">&nbsp;</div>
 <strong><a title="Robert Cailliau" href="https://en.wikipedia.org/wiki/Robert_Cailliau">Robert Cailliau</a>&nbsp; in 2019</strong></div>
