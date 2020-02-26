@@ -5021,9 +5021,11 @@ Try it Yourself &raquo; </a></div>
 Try it Yourself &raquo; </a></div>
 </br>
 
+<ul>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/hcc.pdf" style="text-decoration:none;"> HTML5 Cheat Sheet</a></li>
 
-
+</ul>
 
 </br>
 
