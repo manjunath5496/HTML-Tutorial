@@ -5022,14 +5022,6 @@ Try it Yourself &raquo; </a></div>
 </br>
 
 
-## DEPRECATED
-
-Please see: https://github.com/kevinSuttle/html-meta-tags, thanks for the idea [@dandv](https://github.com/dandv)!
-
----  
-
-
-Copied from http://code.lancepollard.com/complete-list-of-html-meta-tags/
 
 ## Basic HTML Meta Tags
 
@@ -5194,14 +5186,6 @@ polling-uri2=notifications/contoso2.xml; polling-uri3=notifications/contoso3.xml
 <link rel="profile" title="Microformats" href="http://microformats.org/profile/specs/">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 ```
-
-## Other Resources
-
-- [HTML5 Boilerplate explanations and suggestions of header tags](http://html5boilerplate.com/docs/head-Tips/)
-- [Dublic Core Meta Tags](http://www.seoconsultants.com/meta-tags/dublin/)
-- [Apple Meta Tags](http://developer.apple.com/safari/library/documentation/appleapplications/reference/safarihtmlref/articles/metatags.html)
-- [Link Tag Meaning](http://intertwingly.net/wiki/pie/LinkTagMeaning)
-- [Google Chrome HTML5 Tags](http://www.html5rocks.com/)
 
 
 </br>
