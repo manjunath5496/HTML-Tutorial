@@ -5030,13 +5030,8 @@ Try it Yourself &raquo; </a></div>
 </ul>
 
 </br>
-
-
 <table class="vertical-navbox nowraplinks">
 <tbody>
-<tr>
-<th><a title="" href="https://en.wikipedia.org/wiki/HTML">HTML</a></th>
-</tr>
 <tr>
 <td class="hlist">
 <ul>
