@@ -5030,88 +5030,8 @@ Try it Yourself &raquo; </a></div>
 </ul>
 
 </br>
-<table class="vertical-navbox nowraplinks">
-<tbody>
-<tr>
-<td class="hlist">
-<ul>
-<li><a title="Dynamic HTML" href="https://en.wikipedia.org/wiki/Dynamic_HTML">Dynamic HTML</a></li>
-<li><a title="HTML5" href="https://en.wikipedia.org/wiki/HTML5">HTML5</a>&nbsp;
-<ul>
-<li><a class="mw-redirect" title="HTML5 Audio" href="https://en.wikipedia.org/wiki/HTML5_Audio">audio</a></li>
-<li><a title="Canvas element" href="https://en.wikipedia.org/wiki/Canvas_element">canvas</a></li>
-<li><a title="HTML5 video" href="https://en.wikipedia.org/wiki/HTML5_video">video</a></li>
-</ul>
-</li>
-<li><a title="XHTML" href="https://en.wikipedia.org/wiki/XHTML">XHTML</a>&nbsp;
-<ul>
-<li><a title="XHTML Basic" href="https://en.wikipedia.org/wiki/XHTML_Basic">Basic</a></li>
-<li><a title="XHTML Mobile Profile" href="https://en.wikipedia.org/wiki/XHTML_Mobile_Profile">Mobile Profile</a></li>
-<li><a class="mw-redirect" title="C-HTML" href="https://en.wikipedia.org/wiki/C-HTML">C-HTML</a></li>
-</ul>
-</li>
-<li><a title="HTML element" href="https://en.wikipedia.org/wiki/HTML_element">HTML element</a>&nbsp;
-<ul>
-<li><a title="Span and div" href="https://en.wikipedia.org/wiki/Span_and_div">span and div</a></li>
-</ul>
-</li>
-<li><a title="HTML attribute" href="https://en.wikipedia.org/wiki/HTML_attribute">HTML attribute</a></li>
-<li><a class="mw-redirect" title="Framing (World Wide Web)" href="https://en.wikipedia.org/wiki/Framing_(World_Wide_Web)">HTML frame</a></li>
-<li><a title="HTML editor" href="https://en.wikipedia.org/wiki/HTML_editor">HTML editor</a></li>
-<li><a title="Character encodings in HTML" href="https://en.wikipedia.org/wiki/Character_encodings_in_HTML">Character encodings</a>&nbsp;
-<ul>
-<li><a title="Unicode and HTML" href="https://en.wikipedia.org/wiki/Unicode_and_HTML">Unicode</a></li>
-</ul>
-</li>
-<li><a title="Language code" href="https://en.wikipedia.org/wiki/Language_code">Language code</a></li>
-<li><a title="Document Object Model" href="https://en.wikipedia.org/wiki/Document_Object_Model">Document Object Model</a></li>
-<li><a title="Browser Object Model" href="https://en.wikipedia.org/wiki/Browser_Object_Model">Browser Object Model</a></li>
-<li><a title="Style sheet (web development)" href="https://en.wikipedia.org/wiki/Style_sheet_(web_development)">Style sheets</a>&nbsp;
-<ul>
-<li><a title="Cascading Style Sheets" href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a></li>
-</ul>
-</li>
-<li><a title="Font family (HTML)" href="https://en.wikipedia.org/wiki/Font_family_(HTML)">Font family</a></li>
-<li><a title="Web colors" href="https://en.wikipedia.org/wiki/Web_colors">Web colors</a></li>
-<li><a title="HTML scripting" href="https://en.wikipedia.org/wiki/HTML_scripting">HTML scripting</a></li>
-<li><a title="JavaScript" href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a>&nbsp;
-<ul>
-<li><a title="WebGL" href="https://en.wikipedia.org/wiki/WebGL">WebGL</a></li>
-<li><a title="WebCL" href="https://en.wikipedia.org/wiki/WebCL">WebCL</a></li>
-</ul>
-</li>
-<li><a title="World Wide Web Consortium" href="https://en.wikipedia.org/wiki/World_Wide_Web_Consortium">W3C</a>&nbsp;
-<ul>
-<li><a title="W3C Markup Validation Service" href="https://en.wikipedia.org/wiki/W3C_Markup_Validation_Service">Validator</a></li>
-</ul>
-</li>
-<li><a title="WHATWG" href="https://en.wikipedia.org/wiki/WHATWG">WHATWG</a></li>
-<li><a title="Quirks mode" href="https://en.wikipedia.org/wiki/Quirks_mode">Quirks mode</a></li>
-<li><a title="Web storage" href="https://en.wikipedia.org/wiki/Web_storage">Web storage</a></li>
-<li><a title="Browser engine" href="https://en.wikipedia.org/wiki/Browser_engine">Rendering engine</a></li>
-</ul>
-</td>
-</tr>
-<tr>
-<th>Comparisons</th>
-</tr>
-<tr>
-<td class="hlist">
-<ul>
-<li><a class="mw-redirect" title="Comparison of document markup languages" href="https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages">Document markup languages</a></li>
-<li><a title="Comparison of browser engines (HTML support)" href="https://en.wikipedia.org/wiki/Comparison_of_browser_engines_(HTML_support)">HTML support</a></li>
-<li><a title="Comparison of layout engines (XHTML)" href="https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(XHTML)">XHTML</a>&nbsp;
-<ul>
-<li><a title="Comparison of layout engines (XHTML 1.1)" href="https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(XHTML_1.1)">1.1</a></li>
-</ul>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
 
-</br>
+
 
 <h2 id="Books">Books:  </h2>
 
