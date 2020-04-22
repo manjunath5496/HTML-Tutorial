@@ -5026,7 +5026,8 @@ Try it Yourself &raquo; </a></div>
   <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/tag(2).pdf" style="text-decoration:none;"> HTML Tags Chart</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/hcc.pdf" style="text-decoration:none;"> HTML5 Cheat Sheet</a></li>
   <li><a target="_blank" href="https://manjunath5496.github.io/html/index.html" style="text-decoration:none;"> HTML For Beginners</a></li>
-
+ <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/htmk(1).pdf" style="text-decoration:none;"> HTML: Commands</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/HTML-Tutorial/blob/master/htmk(2).pdf" style="text-decoration:none;"> HTML Standards</a></li>
 </ul>
 
 </br>
